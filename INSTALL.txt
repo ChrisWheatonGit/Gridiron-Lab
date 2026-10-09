@@ -1,0 +1,9 @@
+Gridiron Lab - numeric week input correction
+
+1. Back up your existing project folder.
+2. Copy src/app/schedule/page.tsx from this ZIP into C:\Github Projects\cfp-studio\src\app\schedule\page.tsx (replace only this file).
+3. Start the app with npm run dev (existing port 3001).
+
+Changes: both the Add Game week field and the game-card week fields can temporarily be blank while typing. The Add Game week is validated when leaving the field or submitting. Existing saved schedules, team catalogs, logos, bracket pages, and top-25 pages are not touched.
+
+FinanceHub is a separate app. Its source files are needed for a safe tailored patch. Do not copy this file into FinanceHub.

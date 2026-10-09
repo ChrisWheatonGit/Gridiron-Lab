@@ -1,0 +1,6027 @@
+[
+  {
+    "id": "fbs-2005",
+    "name": "Air Force",
+    "mascot": "Falcons",
+    "division": "FBS",
+    "conference": "Mountain West",
+    "color": "#003594",
+    "logo": "/logos/fbs-2005.png"
+  },
+  {
+    "id": "fbs-2006",
+    "name": "Akron",
+    "mascot": "Zips",
+    "division": "FBS",
+    "conference": "MAC",
+    "color": "#041e42",
+    "logo": "/logos/fbs-2006.png"
+  },
+  {
+    "id": "fbs-333",
+    "name": "Alabama",
+    "mascot": "Crimson Tide",
+    "division": "FBS",
+    "conference": "SEC",
+    "color": "#9e1b32",
+    "logo": "/logos/fbs-333.png"
+  },
+  {
+    "id": "fbs-2026",
+    "name": "App State",
+    "mascot": "Mountaineers",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "color": "#000000",
+    "logo": "/logos/fbs-2026.png"
+  },
+  {
+    "id": "fbs-12",
+    "name": "Arizona",
+    "mascot": "Wildcats",
+    "division": "FBS",
+    "conference": "Big 12",
+    "color": "#cc0033",
+    "logo": "/logos/fbs-12.png"
+  },
+  {
+    "id": "fbs-9",
+    "name": "Arizona State",
+    "mascot": "Sun Devils",
+    "division": "FBS",
+    "conference": "Big 12",
+    "color": "#ffc627",
+    "logo": "/logos/fbs-9.png"
+  },
+  {
+    "id": "fbs-8",
+    "name": "Arkansas",
+    "mascot": "Razorbacks",
+    "division": "FBS",
+    "conference": "SEC",
+    "color": "#a32136",
+    "logo": "/logos/fbs-8.png"
+  },
+  {
+    "id": "fbs-2032",
+    "name": "Arkansas State",
+    "mascot": "Red Wolves",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "color": "#cc092f",
+    "logo": "/logos/fbs-2032.png"
+  },
+  {
+    "id": "fbs-349",
+    "name": "Army",
+    "mascot": "Black Knights",
+    "division": "FBS",
+    "conference": "American",
+    "color": "#000000",
+    "logo": "/logos/fbs-349.png"
+  },
+  {
+    "id": "fbs-2",
+    "name": "Auburn",
+    "mascot": "Tigers",
+    "division": "FBS",
+    "conference": "SEC",
+    "color": "#002b5c",
+    "logo": "/logos/fbs-2.png"
+  },
+  {
+    "id": "fbs-2050",
+    "name": "Ball State",
+    "mascot": "Cardinals",
+    "division": "FBS",
+    "conference": "MAC",
+    "color": "#ba0c2f",
+    "logo": "/logos/fbs-2050.png"
+  },
+  {
+    "id": "fbs-239",
+    "name": "Baylor",
+    "mascot": "Bears",
+    "division": "FBS",
+    "conference": "Big 12",
+    "color": "#154734",
+    "logo": "/logos/fbs-239.png"
+  },
+  {
+    "id": "fbs-68",
+    "name": "Boise State",
+    "mascot": "Broncos",
+    "division": "FBS",
+    "conference": "Pac-12",
+    "color": "#0033a0",
+    "logo": "/logos/fbs-68.png"
+  },
+  {
+    "id": "fbs-103",
+    "name": "Boston College",
+    "mascot": "Eagles",
+    "division": "FBS",
+    "conference": "ACC",
+    "color": "#8c2232",
+    "logo": "/logos/fbs-103.png"
+  },
+  {
+    "id": "fbs-189",
+    "name": "Bowling Green",
+    "mascot": "Falcons",
+    "division": "FBS",
+    "conference": "MAC",
+    "color": "#fd5000",
+    "logo": "/logos/fbs-189.png"
+  },
+  {
+    "id": "fbs-2084",
+    "name": "Buffalo",
+    "mascot": "Bulls",
+    "division": "FBS",
+    "conference": "MAC",
+    "color": "#005bbb",
+    "logo": "/logos/fbs-2084.png"
+  },
+  {
+    "id": "fbs-252",
+    "name": "BYU",
+    "mascot": "Cougars",
+    "division": "FBS",
+    "conference": "Big 12",
+    "color": "#0047ba",
+    "logo": "/logos/fbs-252.png"
+  },
+  {
+    "id": "fbs-25",
+    "name": "California",
+    "mascot": "Golden Bears",
+    "division": "FBS",
+    "conference": "ACC",
+    "color": "#041e42",
+    "logo": "/logos/fbs-25.png"
+  },
+  {
+    "id": "fbs-2117",
+    "name": "Central Michigan",
+    "mascot": "Chippewas",
+    "division": "FBS",
+    "conference": "MAC",
+    "color": "#4c0027",
+    "logo": "/logos/fbs-2117.png"
+  },
+  {
+    "id": "fbs-2429",
+    "name": "Charlotte",
+    "mascot": "49ers",
+    "division": "FBS",
+    "conference": "American",
+    "color": "#005035",
+    "logo": "/logos/fbs-2429.png"
+  },
+  {
+    "id": "fbs-2132",
+    "name": "Cincinnati",
+    "mascot": "Bearcats",
+    "division": "FBS",
+    "conference": "Big 12",
+    "color": "#000000",
+    "logo": "/logos/fbs-2132.png"
+  },
+  {
+    "id": "fbs-228",
+    "name": "Clemson",
+    "mascot": "Tigers",
+    "division": "FBS",
+    "conference": "ACC",
+    "color": "#f56600",
+    "logo": "/logos/fbs-228.png"
+  },
+  {
+    "id": "fbs-324",
+    "name": "Coastal Carolina",
+    "mascot": "Chanticleers",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "color": "#006f71",
+    "logo": "/logos/fbs-324.png"
+  },
+  {
+    "id": "fbs-38",
+    "name": "Colorado",
+    "mascot": "Buffaloes",
+    "division": "FBS",
+    "conference": "Big 12",
+    "color": "#cfb87c",
+    "logo": "/logos/fbs-38.png"
+  },
+  {
+    "id": "fbs-36",
+    "name": "Colorado State",
+    "mascot": "Rams",
+    "division": "FBS",
+    "conference": "Pac-12",
+    "color": "#004c23",
+    "logo": "/logos/fbs-36.png"
+  },
+  {
+    "id": "fbs-48",
+    "name": "Delaware",
+    "mascot": "Blue Hens",
+    "division": "FBS",
+    "conference": "CUSA",
+    "color": "#00539f",
+    "logo": "/logos/fbs-48.png"
+  },
+  {
+    "id": "fbs-150",
+    "name": "Duke",
+    "mascot": "Blue Devils",
+    "division": "FBS",
+    "conference": "ACC",
+    "color": "#00539b",
+    "logo": "/logos/fbs-150.png"
+  },
+  {
+    "id": "fbs-151",
+    "name": "East Carolina",
+    "mascot": "Pirates",
+    "division": "FBS",
+    "conference": "American",
+    "color": "#582c83",
+    "logo": "/logos/fbs-151.png"
+  },
+  {
+    "id": "fbs-2199",
+    "name": "Eastern Michigan",
+    "mascot": "Eagles",
+    "division": "FBS",
+    "conference": "MAC",
+    "color": "#006938",
+    "logo": "/logos/fbs-2199.png"
+  },
+  {
+    "id": "fbs-57",
+    "name": "Florida",
+    "mascot": "Gators",
+    "division": "FBS",
+    "conference": "SEC",
+    "color": "#0021a5",
+    "logo": "/logos/fbs-57.png"
+  },
+  {
+    "id": "fbs-2226",
+    "name": "Florida Atlantic",
+    "mascot": "Owls",
+    "division": "FBS",
+    "conference": "American",
+    "color": "#003366",
+    "logo": "/logos/fbs-2226.png"
+  },
+  {
+    "id": "fbs-2229",
+    "name": "Florida International",
+    "mascot": "Panthers",
+    "division": "FBS",
+    "conference": "CUSA",
+    "color": "#091f3f",
+    "logo": "/logos/fbs-2229.png"
+  },
+  {
+    "id": "fbs-52",
+    "name": "Florida State",
+    "mascot": "Seminoles",
+    "division": "FBS",
+    "conference": "ACC",
+    "color": "#782f40",
+    "logo": "/logos/fbs-52.png"
+  },
+  {
+    "id": "fbs-278",
+    "name": "Fresno State",
+    "mascot": "Bulldogs",
+    "division": "FBS",
+    "conference": "Pac-12",
+    "color": "#b1102b",
+    "logo": "/logos/fbs-278.png"
+  },
+  {
+    "id": "fbs-61",
+    "name": "Georgia",
+    "mascot": "Bulldogs",
+    "division": "FBS",
+    "conference": "SEC",
+    "color": "#ba0c2f",
+    "logo": "/logos/fbs-61.png"
+  },
+  {
+    "id": "fbs-290",
+    "name": "Georgia Southern",
+    "mascot": "Eagles",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "color": "#041e42",
+    "logo": "/logos/fbs-290.png"
+  },
+  {
+    "id": "fbs-2247",
+    "name": "Georgia State",
+    "mascot": "Panthers",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "color": "#0039a6",
+    "logo": "/logos/fbs-2247.png"
+  },
+  {
+    "id": "fbs-59",
+    "name": "Georgia Tech",
+    "mascot": "Yellow Jackets",
+    "division": "FBS",
+    "conference": "ACC",
+    "color": "#b3a369",
+    "logo": "/logos/fbs-59.png"
+  },
+  {
+    "id": "fbs-62",
+    "name": "Hawai'i",
+    "mascot": "Rainbow Warriors",
+    "division": "FBS",
+    "conference": "Mountain West",
+    "color": "#005737",
+    "logo": "/logos/fbs-62.png"
+  },
+  {
+    "id": "fbs-248",
+    "name": "Houston",
+    "mascot": "Cougars",
+    "division": "FBS",
+    "conference": "Big 12",
+    "color": "#c8102e",
+    "logo": "/logos/fbs-248.png"
+  },
+  {
+    "id": "fbs-356",
+    "name": "Illinois",
+    "mascot": "Fighting Illini",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "color": "#ff5f05",
+    "logo": "/logos/fbs-356.png"
+  },
+  {
+    "id": "fbs-84",
+    "name": "Indiana",
+    "mascot": "Hoosiers",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "color": "#970310",
+    "logo": "/logos/fbs-84.png"
+  },
+  {
+    "id": "fbs-2294",
+    "name": "Iowa",
+    "mascot": "Hawkeyes",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "color": "#231f20",
+    "logo": "/logos/fbs-2294.png"
+  },
+  {
+    "id": "fbs-66",
+    "name": "Iowa State",
+    "mascot": "Cyclones",
+    "division": "FBS",
+    "conference": "Big 12",
+    "color": "#ae192d",
+    "logo": "/logos/fbs-66.png"
+  },
+  {
+    "id": "fbs-55",
+    "name": "Jacksonville State",
+    "mascot": "Gamecocks",
+    "division": "FBS",
+    "conference": "CUSA",
+    "color": "#cc0000",
+    "logo": "/logos/fbs-55.png"
+  },
+  {
+    "id": "fbs-256",
+    "name": "James Madison",
+    "mascot": "Dukes",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "color": "#450084",
+    "logo": "/logos/fbs-256.png"
+  },
+  {
+    "id": "fbs-2305",
+    "name": "Kansas",
+    "mascot": "Jayhawks",
+    "division": "FBS",
+    "conference": "Big 12",
+    "color": "#0051ba",
+    "logo": "/logos/fbs-2305.png"
+  },
+  {
+    "id": "fbs-2306",
+    "name": "Kansas State",
+    "mascot": "Wildcats",
+    "division": "FBS",
+    "conference": "Big 12",
+    "color": "#330a57",
+    "logo": "/logos/fbs-2306.png"
+  },
+  {
+    "id": "fbs-338",
+    "name": "Kennesaw State",
+    "mascot": "Owls",
+    "division": "FBS",
+    "conference": "CUSA",
+    "color": "#fdbb30",
+    "logo": "/logos/fbs-338.png"
+  },
+  {
+    "id": "fbs-2309",
+    "name": "Kent State",
+    "mascot": "Golden Flashes",
+    "division": "FBS",
+    "conference": "MAC",
+    "color": "#002664",
+    "logo": "/logos/fbs-2309.png"
+  },
+  {
+    "id": "fbs-96",
+    "name": "Kentucky",
+    "mascot": "Wildcats",
+    "division": "FBS",
+    "conference": "SEC",
+    "color": "#0033a0",
+    "logo": "/logos/fbs-96.png"
+  },
+  {
+    "id": "fbs-2335",
+    "name": "Liberty",
+    "mascot": "Flames",
+    "division": "FBS",
+    "conference": "CUSA",
+    "color": "#0a254e",
+    "logo": "/logos/fbs-2335.png"
+  },
+  {
+    "id": "fbs-309",
+    "name": "Louisiana",
+    "mascot": "Ragin' Cajuns",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "color": "#ce181e",
+    "logo": "/logos/fbs-309.png"
+  },
+  {
+    "id": "fbs-2348",
+    "name": "Louisiana Tech",
+    "mascot": "Bulldogs",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "color": "#003087",
+    "logo": "/logos/fbs-2348.png"
+  },
+  {
+    "id": "fbs-97",
+    "name": "Louisville",
+    "mascot": "Cardinals",
+    "division": "FBS",
+    "conference": "ACC",
+    "color": "#c9001f",
+    "logo": "/logos/fbs-97.png"
+  },
+  {
+    "id": "fbs-99",
+    "name": "LSU",
+    "mascot": "Tigers",
+    "division": "FBS",
+    "conference": "SEC",
+    "color": "#461d76",
+    "logo": "/logos/fbs-99.png"
+  },
+  {
+    "id": "fbs-276",
+    "name": "Marshall",
+    "mascot": "Thundering Herd",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "color": "#00b140",
+    "logo": "/logos/fbs-276.png"
+  },
+  {
+    "id": "fbs-120",
+    "name": "Maryland",
+    "mascot": "Terrapins",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "color": "#ce1126",
+    "logo": "/logos/fbs-120.png"
+  },
+  {
+    "id": "fbs-113",
+    "name": "Massachusetts",
+    "mascot": "Minutemen",
+    "division": "FBS",
+    "conference": "MAC",
+    "color": "#881c1c",
+    "logo": "/logos/fbs-113.png"
+  },
+  {
+    "id": "fbs-235",
+    "name": "Memphis",
+    "mascot": "Tigers",
+    "division": "FBS",
+    "conference": "American",
+    "color": "#004991",
+    "logo": "/logos/fbs-235.png"
+  },
+  {
+    "id": "fbs-2390",
+    "name": "Miami",
+    "mascot": "Hurricanes",
+    "division": "FBS",
+    "conference": "ACC",
+    "color": "#f47423",
+    "logo": "/logos/fbs-2390.png"
+  },
+  {
+    "id": "fbs-193",
+    "name": "Miami (OH)",
+    "mascot": "RedHawks",
+    "division": "FBS",
+    "conference": "MAC",
+    "color": "#c41230",
+    "logo": "/logos/fbs-193.png"
+  },
+  {
+    "id": "fbs-130",
+    "name": "Michigan",
+    "mascot": "Wolverines",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "color": "#00274c",
+    "logo": "/logos/fbs-130.png"
+  },
+  {
+    "id": "fbs-127",
+    "name": "Michigan State",
+    "mascot": "Spartans",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "color": "#173f35",
+    "logo": "/logos/fbs-127.png"
+  },
+  {
+    "id": "fbs-2393",
+    "name": "Middle Tennessee",
+    "mascot": "Blue Raiders",
+    "division": "FBS",
+    "conference": "CUSA",
+    "color": "#036eb7",
+    "logo": "/logos/fbs-2393.png"
+  },
+  {
+    "id": "fbs-135",
+    "name": "Minnesota",
+    "mascot": "Golden Gophers",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "color": "#5e0a2f",
+    "logo": "/logos/fbs-135.png"
+  },
+  {
+    "id": "fbs-344",
+    "name": "Mississippi State",
+    "mascot": "Bulldogs",
+    "division": "FBS",
+    "conference": "SEC",
+    "color": "#5d1725",
+    "logo": "/logos/fbs-344.png"
+  },
+  {
+    "id": "fbs-142",
+    "name": "Missouri",
+    "mascot": "Tigers",
+    "division": "FBS",
+    "conference": "SEC",
+    "color": "#f1b82d",
+    "logo": "/logos/fbs-142.png"
+  },
+  {
+    "id": "fbs-2623",
+    "name": "Missouri State",
+    "mascot": "Bears",
+    "division": "FBS",
+    "conference": "CUSA",
+    "color": "#5e0009",
+    "logo": "/logos/fbs-2623.png"
+  },
+  {
+    "id": "fbs-2426",
+    "name": "Navy",
+    "mascot": "Midshipmen",
+    "division": "FBS",
+    "conference": "American",
+    "color": "#00225b",
+    "logo": "/logos/fbs-2426.png"
+  },
+  {
+    "id": "fbs-152",
+    "name": "NC State",
+    "mascot": "Wolfpack",
+    "division": "FBS",
+    "conference": "ACC",
+    "color": "#cc0000",
+    "logo": "/logos/fbs-152.png"
+  },
+  {
+    "id": "fbs-158",
+    "name": "Nebraska",
+    "mascot": "Cornhuskers",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "color": "#e31937",
+    "logo": "/logos/fbs-158.png"
+  },
+  {
+    "id": "fbs-2440",
+    "name": "Nevada",
+    "mascot": "Wolf Pack",
+    "division": "FBS",
+    "conference": "Mountain West",
+    "color": "#041e42",
+    "logo": "/logos/fbs-2440.png"
+  },
+  {
+    "id": "fbs-167",
+    "name": "New Mexico",
+    "mascot": "Lobos",
+    "division": "FBS",
+    "conference": "Mountain West",
+    "color": "#ba0c2f",
+    "logo": "/logos/fbs-167.png"
+  },
+  {
+    "id": "fbs-166",
+    "name": "New Mexico State",
+    "mascot": "Aggies",
+    "division": "FBS",
+    "conference": "CUSA",
+    "color": "#7e141b",
+    "logo": "/logos/fbs-166.png"
+  },
+  {
+    "id": "fbs-153",
+    "name": "North Carolina",
+    "mascot": "Tar Heels",
+    "division": "FBS",
+    "conference": "ACC",
+    "color": "#7bafd4",
+    "logo": "/logos/fbs-153.png"
+  },
+  {
+    "id": "fbs-2449",
+    "name": "North Dakota State",
+    "mascot": "Bison",
+    "division": "FBS",
+    "conference": "Mountain West",
+    "color": "#01402A",
+    "logo": "/logos/fbs-2449.png"
+  },
+  {
+    "id": "fbs-249",
+    "name": "North Texas",
+    "mascot": "Mean Green",
+    "division": "FBS",
+    "conference": "American",
+    "color": "#068f33",
+    "logo": "/logos/fbs-249.png"
+  },
+  {
+    "id": "fbs-2459",
+    "name": "Northern Illinois",
+    "mascot": "Huskies",
+    "division": "FBS",
+    "conference": "Mountain West",
+    "color": "#c8102e",
+    "logo": "/logos/fbs-2459.png"
+  },
+  {
+    "id": "fbs-77",
+    "name": "Northwestern",
+    "mascot": "Wildcats",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "color": "#492f92",
+    "logo": "/logos/fbs-77.png"
+  },
+  {
+    "id": "fbs-87",
+    "name": "Notre Dame",
+    "mascot": "Fighting Irish",
+    "division": "FBS",
+    "conference": "FBS Indep.",
+    "color": "#062340",
+    "logo": "/logos/fbs-87.png"
+  },
+  {
+    "id": "fbs-195",
+    "name": "Ohio",
+    "mascot": "Bobcats",
+    "division": "FBS",
+    "conference": "MAC",
+    "color": "#154734",
+    "logo": "/logos/fbs-195.png"
+  },
+  {
+    "id": "fbs-194",
+    "name": "Ohio State",
+    "mascot": "Buckeyes",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "color": "#ba0c2f",
+    "logo": "/logos/fbs-194.png"
+  },
+  {
+    "id": "fbs-201",
+    "name": "Oklahoma",
+    "mascot": "Sooners",
+    "division": "FBS",
+    "conference": "SEC",
+    "color": "#990000",
+    "logo": "/logos/fbs-201.png"
+  },
+  {
+    "id": "fbs-197",
+    "name": "Oklahoma State",
+    "mascot": "Cowboys",
+    "division": "FBS",
+    "conference": "Big 12",
+    "color": "#fe5c00",
+    "logo": "/logos/fbs-197.png"
+  },
+  {
+    "id": "fbs-295",
+    "name": "Old Dominion",
+    "mascot": "Monarchs",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "color": "#003768",
+    "logo": "/logos/fbs-295.png"
+  },
+  {
+    "id": "fbs-145",
+    "name": "Ole Miss",
+    "mascot": "Rebels",
+    "division": "FBS",
+    "conference": "SEC",
+    "color": "#13294b",
+    "logo": "/logos/fbs-145.png"
+  },
+  {
+    "id": "fbs-2483",
+    "name": "Oregon",
+    "mascot": "Ducks",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "color": "#00934b",
+    "logo": "/logos/fbs-2483.png"
+  },
+  {
+    "id": "fbs-204",
+    "name": "Oregon State",
+    "mascot": "Beavers",
+    "division": "FBS",
+    "conference": "Pac-12",
+    "color": "#dc4405",
+    "logo": "/logos/fbs-204.png"
+  },
+  {
+    "id": "fbs-213",
+    "name": "Penn State",
+    "mascot": "Nittany Lions",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "color": "#061440",
+    "logo": "/logos/fbs-213.png"
+  },
+  {
+    "id": "fbs-221",
+    "name": "Pittsburgh",
+    "mascot": "Panthers",
+    "division": "FBS",
+    "conference": "ACC",
+    "color": "#003594",
+    "logo": "/logos/fbs-221.png"
+  },
+  {
+    "id": "fbs-2509",
+    "name": "Purdue",
+    "mascot": "Boilermakers",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "color": "#ceb888",
+    "logo": "/logos/fbs-2509.png"
+  },
+  {
+    "id": "fbs-242",
+    "name": "Rice",
+    "mascot": "Owls",
+    "division": "FBS",
+    "conference": "American",
+    "color": "#00205b",
+    "logo": "/logos/fbs-242.png"
+  },
+  {
+    "id": "fbs-164",
+    "name": "Rutgers",
+    "mascot": "Scarlet Knights",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "color": "#ce0e2d",
+    "logo": "/logos/fbs-164.png"
+  },
+  {
+    "id": "fbs-16",
+    "name": "Sacramento State",
+    "mascot": "Hornets",
+    "division": "FBS",
+    "conference": "MAC",
+    "color": "#00573C",
+    "logo": "/logos/fbs-16.png"
+  },
+  {
+    "id": "fbs-2534",
+    "name": "Sam Houston",
+    "mascot": "Bearkats",
+    "division": "FBS",
+    "conference": "CUSA",
+    "color": "#f56423",
+    "logo": "/logos/fbs-2534.png"
+  },
+  {
+    "id": "fbs-21",
+    "name": "San Diego State",
+    "mascot": "Aztecs",
+    "division": "FBS",
+    "conference": "Pac-12",
+    "color": "#a6192e",
+    "logo": "/logos/fbs-21.png"
+  },
+  {
+    "id": "fbs-23",
+    "name": "San José State",
+    "mascot": "Spartans",
+    "division": "FBS",
+    "conference": "Mountain West",
+    "color": "#0038a8",
+    "logo": "/logos/fbs-23.png"
+  },
+  {
+    "id": "fbs-2567",
+    "name": "SMU",
+    "mascot": "Mustangs",
+    "division": "FBS",
+    "conference": "ACC",
+    "color": "#a80000",
+    "logo": "/logos/fbs-2567.png"
+  },
+  {
+    "id": "fbs-6",
+    "name": "South Alabama",
+    "mascot": "Jaguars",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "color": "#00205b",
+    "logo": "/logos/fbs-6.png"
+  },
+  {
+    "id": "fbs-2579",
+    "name": "South Carolina",
+    "mascot": "Gamecocks",
+    "division": "FBS",
+    "conference": "SEC",
+    "color": "#73000a",
+    "logo": "/logos/fbs-2579.png"
+  },
+  {
+    "id": "fbs-58",
+    "name": "South Florida",
+    "mascot": "Bulls",
+    "division": "FBS",
+    "conference": "American",
+    "color": "#006747",
+    "logo": "/logos/fbs-58.png"
+  },
+  {
+    "id": "fbs-2572",
+    "name": "Southern Miss",
+    "mascot": "Golden Eagles",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "color": "#ffc72c",
+    "logo": "/logos/fbs-2572.png"
+  },
+  {
+    "id": "fbs-24",
+    "name": "Stanford",
+    "mascot": "Cardinal",
+    "division": "FBS",
+    "conference": "ACC",
+    "color": "#8c1515",
+    "logo": "/logos/fbs-24.png"
+  },
+  {
+    "id": "fbs-183",
+    "name": "Syracuse",
+    "mascot": "Orange",
+    "division": "FBS",
+    "conference": "ACC",
+    "color": "#000e54",
+    "logo": "/logos/fbs-183.png"
+  },
+  {
+    "id": "fbs-2628",
+    "name": "TCU",
+    "mascot": "Horned Frogs",
+    "division": "FBS",
+    "conference": "Big 12",
+    "color": "#4d1979",
+    "logo": "/logos/fbs-2628.png"
+  },
+  {
+    "id": "fbs-218",
+    "name": "Temple",
+    "mascot": "Owls",
+    "division": "FBS",
+    "conference": "American",
+    "color": "#a41e35",
+    "logo": "/logos/fbs-218.png"
+  },
+  {
+    "id": "fbs-2633",
+    "name": "Tennessee",
+    "mascot": "Volunteers",
+    "division": "FBS",
+    "conference": "SEC",
+    "color": "#ff8200",
+    "logo": "/logos/fbs-2633.png"
+  },
+  {
+    "id": "fbs-251",
+    "name": "Texas",
+    "mascot": "Longhorns",
+    "division": "FBS",
+    "conference": "SEC",
+    "color": "#af5c37",
+    "logo": "/logos/fbs-251.png"
+  },
+  {
+    "id": "fbs-245",
+    "name": "Texas A&M",
+    "mascot": "Aggies",
+    "division": "FBS",
+    "conference": "SEC",
+    "color": "#500000",
+    "logo": "/logos/fbs-245.png"
+  },
+  {
+    "id": "fbs-326",
+    "name": "Texas State",
+    "mascot": "Bobcats",
+    "division": "FBS",
+    "conference": "Pac-12",
+    "color": "#501214",
+    "logo": "/logos/fbs-326.png"
+  },
+  {
+    "id": "fbs-2641",
+    "name": "Texas Tech",
+    "mascot": "Red Raiders",
+    "division": "FBS",
+    "conference": "Big 12",
+    "color": "#da291c",
+    "logo": "/logos/fbs-2641.png"
+  },
+  {
+    "id": "fbs-2649",
+    "name": "Toledo",
+    "mascot": "Rockets",
+    "division": "FBS",
+    "conference": "MAC",
+    "color": "#0b2240",
+    "logo": "/logos/fbs-2649.png"
+  },
+  {
+    "id": "fbs-2653",
+    "name": "Troy",
+    "mascot": "Trojans",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "color": "#862633",
+    "logo": "/logos/fbs-2653.png"
+  },
+  {
+    "id": "fbs-2655",
+    "name": "Tulane",
+    "mascot": "Green Wave",
+    "division": "FBS",
+    "conference": "American",
+    "color": "#006747",
+    "logo": "/logos/fbs-2655.png"
+  },
+  {
+    "id": "fbs-202",
+    "name": "Tulsa",
+    "mascot": "Golden Hurricane",
+    "division": "FBS",
+    "conference": "American",
+    "color": "#003595",
+    "logo": "/logos/fbs-202.png"
+  },
+  {
+    "id": "fbs-5",
+    "name": "UAB",
+    "mascot": "Blazers",
+    "division": "FBS",
+    "conference": "American",
+    "color": "#1a5632",
+    "logo": "/logos/fbs-5.png"
+  },
+  {
+    "id": "fbs-2116",
+    "name": "UCF",
+    "mascot": "Knights",
+    "division": "FBS",
+    "conference": "Big 12",
+    "color": "#000000",
+    "logo": "/logos/fbs-2116.png"
+  },
+  {
+    "id": "fbs-26",
+    "name": "UCLA",
+    "mascot": "Bruins",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "color": "#2774ae",
+    "logo": "/logos/fbs-26.png"
+  },
+  {
+    "id": "fbs-41",
+    "name": "UConn",
+    "mascot": "Huskies",
+    "division": "FBS",
+    "conference": "FBS Indep.",
+    "color": "#0c2340",
+    "logo": "/logos/fbs-41.png"
+  },
+  {
+    "id": "fbs-2433",
+    "name": "UL Monroe",
+    "mascot": "Warhawks",
+    "division": "FBS",
+    "conference": "Sun Belt",
+    "color": "#840029",
+    "logo": "/logos/fbs-2433.png"
+  },
+  {
+    "id": "fbs-2439",
+    "name": "UNLV",
+    "mascot": "Rebels",
+    "division": "FBS",
+    "conference": "Mountain West",
+    "color": "#cf0a2c",
+    "logo": "/logos/fbs-2439.png"
+  },
+  {
+    "id": "fbs-30",
+    "name": "USC",
+    "mascot": "Trojans",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "color": "#9d2235",
+    "logo": "/logos/fbs-30.png"
+  },
+  {
+    "id": "fbs-254",
+    "name": "Utah",
+    "mascot": "Utes",
+    "division": "FBS",
+    "conference": "Big 12",
+    "color": "#be0000",
+    "logo": "/logos/fbs-254.png"
+  },
+  {
+    "id": "fbs-328",
+    "name": "Utah State",
+    "mascot": "Aggies",
+    "division": "FBS",
+    "conference": "Pac-12",
+    "color": "#0f2439",
+    "logo": "/logos/fbs-328.png"
+  },
+  {
+    "id": "fbs-2638",
+    "name": "UTEP",
+    "mascot": "Miners",
+    "division": "FBS",
+    "conference": "Mountain West",
+    "color": "#ff8200",
+    "logo": "/logos/fbs-2638.png"
+  },
+  {
+    "id": "fbs-2636",
+    "name": "UTSA",
+    "mascot": "Roadrunners",
+    "division": "FBS",
+    "conference": "American",
+    "color": "#0c2340",
+    "logo": "/logos/fbs-2636.png"
+  },
+  {
+    "id": "fbs-238",
+    "name": "Vanderbilt",
+    "mascot": "Commodores",
+    "division": "FBS",
+    "conference": "SEC",
+    "color": "#000000",
+    "logo": "/logos/fbs-238.png"
+  },
+  {
+    "id": "fbs-258",
+    "name": "Virginia",
+    "mascot": "Cavaliers",
+    "division": "FBS",
+    "conference": "ACC",
+    "color": "#232d4b",
+    "logo": "/logos/fbs-258.png"
+  },
+  {
+    "id": "fbs-259",
+    "name": "Virginia Tech",
+    "mascot": "Hokies",
+    "division": "FBS",
+    "conference": "ACC",
+    "color": "#6a2c3e",
+    "logo": "/logos/fbs-259.png"
+  },
+  {
+    "id": "fbs-154",
+    "name": "Wake Forest",
+    "mascot": "Demon Deacons",
+    "division": "FBS",
+    "conference": "ACC",
+    "color": "#ceb888",
+    "logo": "/logos/fbs-154.png"
+  },
+  {
+    "id": "fbs-264",
+    "name": "Washington",
+    "mascot": "Huskies",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "color": "#33006f",
+    "logo": "/logos/fbs-264.png"
+  },
+  {
+    "id": "fbs-265",
+    "name": "Washington State",
+    "mascot": "Cougars",
+    "division": "FBS",
+    "conference": "Pac-12",
+    "color": "#a60f2d",
+    "logo": "/logos/fbs-265.png"
+  },
+  {
+    "id": "fbs-277",
+    "name": "West Virginia",
+    "mascot": "Mountaineers",
+    "division": "FBS",
+    "conference": "Big 12",
+    "color": "#eaaa00",
+    "logo": "/logos/fbs-277.png"
+  },
+  {
+    "id": "fbs-98",
+    "name": "Western Kentucky",
+    "mascot": "Hilltoppers",
+    "division": "FBS",
+    "conference": "CUSA",
+    "color": "#e13a3e",
+    "logo": "/logos/fbs-98.png"
+  },
+  {
+    "id": "fbs-2711",
+    "name": "Western Michigan",
+    "mascot": "Broncos",
+    "division": "FBS",
+    "conference": "MAC",
+    "color": "#532e1f",
+    "logo": "/logos/fbs-2711.png"
+  },
+  {
+    "id": "fbs-275",
+    "name": "Wisconsin",
+    "mascot": "Badgers",
+    "division": "FBS",
+    "conference": "Big Ten",
+    "color": "#a00000",
+    "logo": "/logos/fbs-275.png"
+  },
+  {
+    "id": "fbs-2751",
+    "name": "Wyoming",
+    "mascot": "Cowboys",
+    "division": "FBS",
+    "conference": "Mountain West",
+    "color": "#492f24",
+    "logo": "/logos/fbs-2751.png"
+  },
+  {
+    "id": "fcs-2000",
+    "name": "Abilene Christian",
+    "mascot": "Wildcats",
+    "division": "FCS",
+    "conference": "UAC",
+    "color": "#592d82",
+    "logo": "/logos/fcs-2000.png"
+  },
+  {
+    "id": "fcs-2010",
+    "name": "Alabama A&M",
+    "mascot": "Bulldogs",
+    "division": "FCS",
+    "conference": "SWAC",
+    "color": "#790000",
+    "logo": "/logos/fcs-2010.png"
+  },
+  {
+    "id": "fcs-2011",
+    "name": "Alabama State",
+    "mascot": "Hornets",
+    "division": "FCS",
+    "conference": "SWAC",
+    "color": "#e9a900",
+    "logo": "/logos/fcs-2011.png"
+  },
+  {
+    "id": "fcs-2016",
+    "name": "Alcorn State",
+    "mascot": "Braves",
+    "division": "FCS",
+    "conference": "SWAC",
+    "color": "#4b0058",
+    "logo": "/logos/fcs-2016.png"
+  },
+  {
+    "id": "fcs-2029",
+    "name": "Arkansas-Pine Bluff",
+    "mascot": "Golden Lions",
+    "division": "FCS",
+    "conference": "SWAC",
+    "color": "#e0aa0f",
+    "logo": "/logos/fcs-2029.png"
+  },
+  {
+    "id": "fcs-2046",
+    "name": "Austin Peay",
+    "mascot": "Governors",
+    "division": "FCS",
+    "conference": "UAC",
+    "color": "#8e0b0b",
+    "logo": "/logos/fcs-2046.png"
+  },
+  {
+    "id": "fcs-2065",
+    "name": "Bethune-Cookman",
+    "mascot": "Wildcats",
+    "division": "FCS",
+    "conference": "SWAC",
+    "color": "#7b1831",
+    "logo": "/logos/fcs-2065.png"
+  },
+  {
+    "id": "fcs-225",
+    "name": "Brown",
+    "mascot": "Bears",
+    "division": "FCS",
+    "conference": "Ivy",
+    "color": "#411e09",
+    "logo": "/logos/fcs-225.png"
+  },
+  {
+    "id": "fcs-2803",
+    "name": "Bryant",
+    "mascot": "Bulldogs",
+    "division": "FCS",
+    "conference": "CAA",
+    "color": "#000000",
+    "logo": "/logos/fcs-2803.png"
+  },
+  {
+    "id": "fcs-2083",
+    "name": "Bucknell",
+    "mascot": "Bison",
+    "division": "FCS",
+    "conference": "Patriot",
+    "color": "#000060",
+    "logo": "/logos/fcs-2083.png"
+  },
+  {
+    "id": "fcs-2086",
+    "name": "Butler",
+    "mascot": "Bulldogs",
+    "division": "FCS",
+    "conference": "Pioneer",
+    "color": "#0d1361",
+    "logo": "/logos/fcs-2086.png"
+  },
+  {
+    "id": "fcs-13",
+    "name": "Cal Poly",
+    "mascot": "Mustangs",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "color": "#1E4D2B",
+    "logo": "/logos/fcs-13.png"
+  },
+  {
+    "id": "fcs-2097",
+    "name": "Campbell",
+    "mascot": "Fighting Camels",
+    "division": "FCS",
+    "conference": "CAA",
+    "color": "#000000",
+    "logo": "/logos/fcs-2097.png"
+  },
+  {
+    "id": "fcs-2110",
+    "name": "Central Arkansas",
+    "mascot": "Bears",
+    "division": "FCS",
+    "conference": "UAC",
+    "color": "#a7a9ac",
+    "logo": "/logos/fcs-2110.png"
+  },
+  {
+    "id": "fcs-2115",
+    "name": "Central Connecticut",
+    "mascot": "Blue Devils",
+    "division": "FCS",
+    "conference": "NEC",
+    "color": "#1B49A2",
+    "logo": "/logos/fcs-2115.png"
+  },
+  {
+    "id": "fcs-2127",
+    "name": "Charleston Southern",
+    "mascot": "Buccaneers",
+    "division": "FCS",
+    "conference": "OVC",
+    "color": "#2e3192",
+    "logo": "/logos/fcs-2127.png"
+  },
+  {
+    "id": "fcs-236",
+    "name": "Chattanooga",
+    "mascot": "Mocs",
+    "division": "FCS",
+    "conference": "Southern",
+    "color": "#00386b",
+    "logo": "/logos/fcs-236.png"
+  },
+  {
+    "id": "fcs-2130",
+    "name": "Chicago State",
+    "mascot": "Cougars",
+    "division": "FCS",
+    "conference": "FCS Indep.",
+    "color": "#64748b",
+    "logo": "/logos/fcs-2130.png"
+  },
+  {
+    "id": "fcs-2142",
+    "name": "Colgate",
+    "mascot": "Raiders",
+    "division": "FCS",
+    "conference": "Patriot",
+    "color": "#821019",
+    "logo": "/logos/fcs-2142.png"
+  },
+  {
+    "id": "fcs-171",
+    "name": "Columbia",
+    "mascot": "Lions",
+    "division": "FCS",
+    "conference": "Ivy",
+    "color": "#7ba4db",
+    "logo": "/logos/fcs-171.png"
+  },
+  {
+    "id": "fcs-172",
+    "name": "Cornell",
+    "mascot": "Big Red",
+    "division": "FCS",
+    "conference": "Ivy",
+    "color": "#b31b1b",
+    "logo": "/logos/fcs-172.png"
+  },
+  {
+    "id": "fcs-159",
+    "name": "Dartmouth",
+    "mascot": "Big Green",
+    "division": "FCS",
+    "conference": "Ivy",
+    "color": "#005730",
+    "logo": "/logos/fcs-159.png"
+  },
+  {
+    "id": "fcs-2166",
+    "name": "Davidson",
+    "mascot": "Wildcats",
+    "division": "FCS",
+    "conference": "Pioneer",
+    "color": "#000000",
+    "logo": "/logos/fcs-2166.png"
+  },
+  {
+    "id": "fcs-2168",
+    "name": "Dayton",
+    "mascot": "Flyers",
+    "division": "FCS",
+    "conference": "Pioneer",
+    "color": "#004B8D",
+    "logo": "/logos/fcs-2168.png"
+  },
+  {
+    "id": "fcs-2169",
+    "name": "Delaware State",
+    "mascot": "Hornets",
+    "division": "FCS",
+    "conference": "MEAC",
+    "color": "#009cdb",
+    "logo": "/logos/fcs-2169.png"
+  },
+  {
+    "id": "fcs-2181",
+    "name": "Drake",
+    "mascot": "Bulldogs",
+    "division": "FCS",
+    "conference": "Pioneer",
+    "color": "#005596",
+    "logo": "/logos/fcs-2181.png"
+  },
+  {
+    "id": "fcs-2184",
+    "name": "Duquesne",
+    "mascot": "Dukes",
+    "division": "FCS",
+    "conference": "NEC",
+    "color": "#002D62",
+    "logo": "/logos/fcs-2184.png"
+  },
+  {
+    "id": "fcs-2193",
+    "name": "East Tennessee State",
+    "mascot": "Buccaneers",
+    "division": "FCS",
+    "conference": "Southern",
+    "color": "#002d61",
+    "logo": "/logos/fcs-2193.png"
+  },
+  {
+    "id": "fcs-2837",
+    "name": "East Texas A&M",
+    "mascot": "Lions",
+    "division": "FCS",
+    "conference": "Southland",
+    "color": "#000000",
+    "logo": "/logos/fcs-2837.png"
+  },
+  {
+    "id": "fcs-2197",
+    "name": "Eastern Illinois",
+    "mascot": "Panthers",
+    "division": "FCS",
+    "conference": "OVC",
+    "color": "#000000",
+    "logo": "/logos/fcs-2197.png"
+  },
+  {
+    "id": "fcs-2198",
+    "name": "Eastern Kentucky",
+    "mascot": "Colonels",
+    "division": "FCS",
+    "conference": "UAC",
+    "color": "#660819",
+    "logo": "/logos/fcs-2198.png"
+  },
+  {
+    "id": "fcs-331",
+    "name": "Eastern Washington",
+    "mascot": "Eagles",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "color": "#a10022",
+    "logo": "/logos/fcs-331.png"
+  },
+  {
+    "id": "fcs-2210",
+    "name": "Elon",
+    "mascot": "Phoenix",
+    "division": "FCS",
+    "conference": "CAA",
+    "color": "#020303",
+    "logo": "/logos/fcs-2210.png"
+  },
+  {
+    "id": "fcs-50",
+    "name": "Florida A&M",
+    "mascot": "Rattlers",
+    "division": "FCS",
+    "conference": "SWAC",
+    "color": "#F89728",
+    "logo": "/logos/fcs-50.png"
+  },
+  {
+    "id": "fcs-2230",
+    "name": "Fordham",
+    "mascot": "Rams",
+    "division": "FCS",
+    "conference": "Patriot",
+    "color": "#830032",
+    "logo": "/logos/fcs-2230.png"
+  },
+  {
+    "id": "fcs-231",
+    "name": "Furman",
+    "mascot": "Paladins",
+    "division": "FCS",
+    "conference": "Southern",
+    "color": "#582c83",
+    "logo": "/logos/fcs-231.png"
+  },
+  {
+    "id": "fcs-2241",
+    "name": "Gardner-Webb",
+    "mascot": "Runnin' Bulldogs",
+    "division": "FCS",
+    "conference": "OVC",
+    "color": "#c12535",
+    "logo": "/logos/fcs-2241.png"
+  },
+  {
+    "id": "fcs-46",
+    "name": "Georgetown",
+    "mascot": "Hoyas",
+    "division": "FCS",
+    "conference": "Patriot",
+    "color": "#110E42",
+    "logo": "/logos/fcs-46.png"
+  },
+  {
+    "id": "fcs-2755",
+    "name": "Grambling",
+    "mascot": "Tigers",
+    "division": "FCS",
+    "conference": "SWAC",
+    "color": "#ee8601",
+    "logo": "/logos/fcs-2755.png"
+  },
+  {
+    "id": "fcs-2261",
+    "name": "Hampton",
+    "mascot": "Pirates",
+    "division": "FCS",
+    "conference": "CAA",
+    "color": "#0067AC",
+    "logo": "/logos/fcs-2261.png"
+  },
+  {
+    "id": "fcs-108",
+    "name": "Harvard",
+    "mascot": "Crimson",
+    "division": "FCS",
+    "conference": "Ivy",
+    "color": "#990000",
+    "logo": "/logos/fcs-108.png"
+  },
+  {
+    "id": "fcs-107",
+    "name": "Holy Cross",
+    "mascot": "Crusaders",
+    "division": "FCS",
+    "conference": "Patriot",
+    "color": "#582c83",
+    "logo": "/logos/fcs-107.png"
+  },
+  {
+    "id": "fcs-2277",
+    "name": "Houston Christian",
+    "mascot": "Huskies",
+    "division": "FCS",
+    "conference": "Southland",
+    "color": "#00539c",
+    "logo": "/logos/fcs-2277.png"
+  },
+  {
+    "id": "fcs-47",
+    "name": "Howard",
+    "mascot": "Bison",
+    "division": "FCS",
+    "conference": "MEAC",
+    "color": "#003a63",
+    "logo": "/logos/fcs-47.png"
+  },
+  {
+    "id": "fcs-70",
+    "name": "Idaho",
+    "mascot": "Vandals",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "color": "#000000",
+    "logo": "/logos/fcs-70.png"
+  },
+  {
+    "id": "fcs-304",
+    "name": "Idaho State",
+    "mascot": "Bengals",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "color": "#ef8c00",
+    "logo": "/logos/fcs-304.png"
+  },
+  {
+    "id": "fcs-2287",
+    "name": "Illinois State",
+    "mascot": "Redbirds",
+    "division": "FCS",
+    "conference": "MVFC",
+    "color": "#CE1126",
+    "logo": "/logos/fcs-2287.png"
+  },
+  {
+    "id": "fcs-2916",
+    "name": "Incarnate Word",
+    "mascot": "Cardinals",
+    "division": "FCS",
+    "conference": "Southland",
+    "color": "#000000",
+    "logo": "/logos/fcs-2916.png"
+  },
+  {
+    "id": "fcs-282",
+    "name": "Indiana State",
+    "mascot": "Sycamores",
+    "division": "FCS",
+    "conference": "MVFC",
+    "color": "#00669a",
+    "logo": "/logos/fcs-282.png"
+  },
+  {
+    "id": "fcs-2296",
+    "name": "Jackson State",
+    "mascot": "Tigers",
+    "division": "FCS",
+    "conference": "SWAC",
+    "color": "#123297",
+    "logo": "/logos/fcs-2296.png"
+  },
+  {
+    "id": "fcs-322",
+    "name": "Lafayette",
+    "mascot": "Leopards",
+    "division": "FCS",
+    "conference": "Patriot",
+    "color": "#790000",
+    "logo": "/logos/fcs-322.png"
+  },
+  {
+    "id": "fcs-2320",
+    "name": "Lamar",
+    "mascot": "Cardinals",
+    "division": "FCS",
+    "conference": "Southland",
+    "color": "#000000",
+    "logo": "/logos/fcs-2320.png"
+  },
+  {
+    "id": "fcs-2329",
+    "name": "Lehigh",
+    "mascot": "Mountain Hawks",
+    "division": "FCS",
+    "conference": "Patriot",
+    "color": "#6c2b2a",
+    "logo": "/logos/fcs-2329.png"
+  },
+  {
+    "id": "fcs-2815",
+    "name": "Lindenwood",
+    "mascot": "Lions",
+    "division": "FCS",
+    "conference": "OVC",
+    "color": "#000000",
+    "logo": "/logos/fcs-2815.png"
+  },
+  {
+    "id": "fcs-2341",
+    "name": "Long Island University",
+    "mascot": "Sharks",
+    "division": "FCS",
+    "conference": "NEC",
+    "color": "#64748b",
+    "logo": "/logos/fcs-2341.png"
+  },
+  {
+    "id": "fcs-311",
+    "name": "Maine",
+    "mascot": "Black Bears",
+    "division": "FCS",
+    "conference": "CAA",
+    "color": "#127dbe",
+    "logo": "/logos/fcs-311.png"
+  },
+  {
+    "id": "fcs-2368",
+    "name": "Marist",
+    "mascot": "Red Foxes",
+    "division": "FCS",
+    "conference": "Pioneer",
+    "color": "#e53730",
+    "logo": "/logos/fcs-2368.png"
+  },
+  {
+    "id": "fcs-2377",
+    "name": "McNeese",
+    "mascot": "Cowboys",
+    "division": "FCS",
+    "conference": "Southland",
+    "color": "#00529C",
+    "logo": "/logos/fcs-2377.png"
+  },
+  {
+    "id": "fcs-2382",
+    "name": "Mercer",
+    "mascot": "Bears",
+    "division": "FCS",
+    "conference": "Southern",
+    "color": "#ff7f29",
+    "logo": "/logos/fcs-2382.png"
+  },
+  {
+    "id": "fcs-2385",
+    "name": "Mercyhurst",
+    "mascot": "Lakers",
+    "division": "FCS",
+    "conference": "NEC",
+    "color": "#000000",
+    "logo": "/logos/fcs-2385.png"
+  },
+  {
+    "id": "fcs-2771",
+    "name": "Merrimack",
+    "mascot": "Warriors",
+    "division": "FCS",
+    "conference": "FCS Indep.",
+    "color": "#000000",
+    "logo": "/logos/fcs-2771.png"
+  },
+  {
+    "id": "fcs-2400",
+    "name": "Mississippi Valley State",
+    "mascot": "Delta Devils",
+    "division": "FCS",
+    "conference": "SWAC",
+    "color": "#005328",
+    "logo": "/logos/fcs-2400.png"
+  },
+  {
+    "id": "fcs-2405",
+    "name": "Monmouth",
+    "mascot": "Hawks",
+    "division": "FCS",
+    "conference": "CAA",
+    "color": "#051844",
+    "logo": "/logos/fcs-2405.png"
+  },
+  {
+    "id": "fcs-149",
+    "name": "Montana",
+    "mascot": "Grizzlies",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "color": "#751D4A",
+    "logo": "/logos/fcs-149.png"
+  },
+  {
+    "id": "fcs-147",
+    "name": "Montana State",
+    "mascot": "Bobcats",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "color": "#00205c",
+    "logo": "/logos/fcs-147.png"
+  },
+  {
+    "id": "fcs-2413",
+    "name": "Morehead State",
+    "mascot": "Eagles",
+    "division": "FCS",
+    "conference": "Pioneer",
+    "color": "#094FA3",
+    "logo": "/logos/fcs-2413.png"
+  },
+  {
+    "id": "fcs-2415",
+    "name": "Morgan State",
+    "mascot": "Bears",
+    "division": "FCS",
+    "conference": "MEAC",
+    "color": "#014786",
+    "logo": "/logos/fcs-2415.png"
+  },
+  {
+    "id": "fcs-93",
+    "name": "Murray State",
+    "mascot": "Racers",
+    "division": "FCS",
+    "conference": "MVFC",
+    "color": "#002148",
+    "logo": "/logos/fcs-93.png"
+  },
+  {
+    "id": "fcs-160",
+    "name": "New Hampshire",
+    "mascot": "Wildcats",
+    "division": "FCS",
+    "conference": "CAA",
+    "color": "#004990",
+    "logo": "/logos/fcs-160.png"
+  },
+  {
+    "id": "fcs-2441",
+    "name": "New Haven",
+    "mascot": "Chargers",
+    "division": "FCS",
+    "conference": "NEC",
+    "color": "#041e42",
+    "logo": "/logos/fcs-2441.png"
+  },
+  {
+    "id": "fcs-2447",
+    "name": "Nicholls",
+    "mascot": "Colonels",
+    "division": "FCS",
+    "conference": "Southland",
+    "color": "#C41230",
+    "logo": "/logos/fcs-2447.png"
+  },
+  {
+    "id": "fcs-2450",
+    "name": "Norfolk State",
+    "mascot": "Spartans",
+    "division": "FCS",
+    "conference": "MEAC",
+    "color": "#0c8968",
+    "logo": "/logos/fcs-2450.png"
+  },
+  {
+    "id": "fcs-2453",
+    "name": "North Alabama",
+    "mascot": "Lions",
+    "division": "FCS",
+    "conference": "UAC",
+    "color": "#000000",
+    "logo": "/logos/fcs-2453.png"
+  },
+  {
+    "id": "fcs-2448",
+    "name": "North Carolina A&T",
+    "mascot": "Aggies",
+    "division": "FCS",
+    "conference": "CAA",
+    "color": "#0505aa",
+    "logo": "/logos/fcs-2448.png"
+  },
+  {
+    "id": "fcs-2428",
+    "name": "North Carolina Central",
+    "mascot": "Eagles",
+    "division": "FCS",
+    "conference": "MEAC",
+    "color": "#880023",
+    "logo": "/logos/fcs-2428.png"
+  },
+  {
+    "id": "fcs-155",
+    "name": "North Dakota",
+    "mascot": "Fighting Hawks",
+    "division": "FCS",
+    "conference": "MVFC",
+    "color": "#00A26B",
+    "logo": "/logos/fcs-155.png"
+  },
+  {
+    "id": "fcs-2464",
+    "name": "Northern Arizona",
+    "mascot": "Lumberjacks",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "color": "#003976",
+    "logo": "/logos/fcs-2464.png"
+  },
+  {
+    "id": "fcs-2458",
+    "name": "Northern Colorado",
+    "mascot": "Bears",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "color": "#13558D",
+    "logo": "/logos/fcs-2458.png"
+  },
+  {
+    "id": "fcs-2460",
+    "name": "Northern Iowa",
+    "mascot": "Panthers",
+    "division": "FCS",
+    "conference": "MVFC",
+    "color": "#473282",
+    "logo": "/logos/fcs-2460.png"
+  },
+  {
+    "id": "fcs-2466",
+    "name": "Northwestern State",
+    "mascot": "Demons",
+    "division": "FCS",
+    "conference": "Southland",
+    "color": "#492F91",
+    "logo": "/logos/fcs-2466.png"
+  },
+  {
+    "id": "fcs-219",
+    "name": "Pennsylvania",
+    "mascot": "Quakers",
+    "division": "FCS",
+    "conference": "Ivy",
+    "color": "#082A74",
+    "logo": "/logos/fcs-219.png"
+  },
+  {
+    "id": "fcs-2502",
+    "name": "Portland State",
+    "mascot": "Vikings",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "color": "#00311e",
+    "logo": "/logos/fcs-2502.png"
+  },
+  {
+    "id": "fcs-2504",
+    "name": "Prairie View A&M",
+    "mascot": "Panthers",
+    "division": "FCS",
+    "conference": "SWAC",
+    "color": "#582c83",
+    "logo": "/logos/fcs-2504.png"
+  },
+  {
+    "id": "fcs-2506",
+    "name": "Presbyterian",
+    "mascot": "Blue Hose",
+    "division": "FCS",
+    "conference": "Pioneer",
+    "color": "#194896",
+    "logo": "/logos/fcs-2506.png"
+  },
+  {
+    "id": "fcs-163",
+    "name": "Princeton",
+    "mascot": "Tigers",
+    "division": "FCS",
+    "conference": "Ivy",
+    "color": "#000000",
+    "logo": "/logos/fcs-163.png"
+  },
+  {
+    "id": "fcs-227",
+    "name": "Rhode Island",
+    "mascot": "Rams",
+    "division": "FCS",
+    "conference": "CAA",
+    "color": "#091f3f",
+    "logo": "/logos/fcs-227.png"
+  },
+  {
+    "id": "fcs-257",
+    "name": "Richmond",
+    "mascot": "Spiders",
+    "division": "FCS",
+    "conference": "Patriot",
+    "color": "#9e0712",
+    "logo": "/logos/fcs-257.png"
+  },
+  {
+    "id": "fcs-2523",
+    "name": "Robert Morris",
+    "mascot": "Colonials",
+    "division": "FCS",
+    "conference": "NEC",
+    "color": "#00214D",
+    "logo": "/logos/fcs-2523.png"
+  },
+  {
+    "id": "fcs-2529",
+    "name": "Sacred Heart",
+    "mascot": "Pioneers",
+    "division": "FCS",
+    "conference": "CAA",
+    "color": "#a40012",
+    "logo": "/logos/fcs-2529.png"
+  },
+  {
+    "id": "fcs-2535",
+    "name": "Samford",
+    "mascot": "Bulldogs",
+    "division": "FCS",
+    "conference": "Southern",
+    "color": "#005485",
+    "logo": "/logos/fcs-2535.png"
+  },
+  {
+    "id": "fcs-301",
+    "name": "San Diego",
+    "mascot": "Toreros",
+    "division": "FCS",
+    "conference": "Pioneer",
+    "color": "#2f99d4",
+    "logo": "/logos/fcs-301.png"
+  },
+  {
+    "id": "fcs-2545",
+    "name": "SE Louisiana",
+    "mascot": "Lions",
+    "division": "FCS",
+    "conference": "Southland",
+    "color": "#215732",
+    "logo": "/logos/fcs-2545.png"
+  },
+  {
+    "id": "fcs-2569",
+    "name": "South Carolina State",
+    "mascot": "Bulldogs",
+    "division": "FCS",
+    "conference": "MEAC",
+    "color": "#7d1315",
+    "logo": "/logos/fcs-2569.png"
+  },
+  {
+    "id": "fcs-233",
+    "name": "South Dakota",
+    "mascot": "Coyotes",
+    "division": "FCS",
+    "conference": "MVFC",
+    "color": "#CD1241",
+    "logo": "/logos/fcs-233.png"
+  },
+  {
+    "id": "fcs-2571",
+    "name": "South Dakota State",
+    "mascot": "Jackrabbits",
+    "division": "FCS",
+    "conference": "MVFC",
+    "color": "#0033a0",
+    "logo": "/logos/fcs-2571.png"
+  },
+  {
+    "id": "fcs-2546",
+    "name": "Southeast Missouri State",
+    "mascot": "Redhawks",
+    "division": "FCS",
+    "conference": "OVC",
+    "color": "#c8102e",
+    "logo": "/logos/fcs-2546.png"
+  },
+  {
+    "id": "fcs-2582",
+    "name": "Southern",
+    "mascot": "Jaguars",
+    "division": "FCS",
+    "conference": "SWAC",
+    "color": "#004B97",
+    "logo": "/logos/fcs-2582.png"
+  },
+  {
+    "id": "fcs-79",
+    "name": "Southern Illinois",
+    "mascot": "Salukis",
+    "division": "FCS",
+    "conference": "MVFC",
+    "color": "#85283D",
+    "logo": "/logos/fcs-79.png"
+  },
+  {
+    "id": "fcs-253",
+    "name": "Southern Utah",
+    "mascot": "Thunderbirds",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "color": "#c72026",
+    "logo": "/logos/fcs-253.png"
+  },
+  {
+    "id": "fcs-2900",
+    "name": "St. Thomas",
+    "mascot": "Tommies",
+    "division": "FCS",
+    "conference": "Pioneer",
+    "color": "#000000",
+    "logo": "/logos/fcs-2900.png"
+  },
+  {
+    "id": "fcs-2617",
+    "name": "Stephen F. Austin",
+    "mascot": "Lumberjacks",
+    "division": "FCS",
+    "conference": "Southland",
+    "color": "#393996",
+    "logo": "/logos/fcs-2617.png"
+  },
+  {
+    "id": "fcs-56",
+    "name": "Stetson",
+    "mascot": "Hatters",
+    "division": "FCS",
+    "conference": "Pioneer",
+    "color": "#0a5640",
+    "logo": "/logos/fcs-56.png"
+  },
+  {
+    "id": "fcs-284",
+    "name": "Stonehill",
+    "mascot": "Skyhawks",
+    "division": "FCS",
+    "conference": "NEC",
+    "color": "#000000",
+    "logo": "/logos/fcs-284.png"
+  },
+  {
+    "id": "fcs-2619",
+    "name": "Stony Brook",
+    "mascot": "Seawolves",
+    "division": "FCS",
+    "conference": "CAA",
+    "color": "#990000",
+    "logo": "/logos/fcs-2619.png"
+  },
+  {
+    "id": "fcs-2627",
+    "name": "Tarleton State",
+    "mascot": "Texans",
+    "division": "FCS",
+    "conference": "UAC",
+    "color": "#000000",
+    "logo": "/logos/fcs-2627.png"
+  },
+  {
+    "id": "fcs-2634",
+    "name": "Tennessee State",
+    "mascot": "Tigers",
+    "division": "FCS",
+    "conference": "OVC",
+    "color": "#171796",
+    "logo": "/logos/fcs-2634.png"
+  },
+  {
+    "id": "fcs-2635",
+    "name": "Tennessee Tech",
+    "mascot": "Golden Eagles",
+    "division": "FCS",
+    "conference": "Southern",
+    "color": "#5A4099",
+    "logo": "/logos/fcs-2635.png"
+  },
+  {
+    "id": "fcs-2640",
+    "name": "Texas Southern",
+    "mascot": "Tigers",
+    "division": "FCS",
+    "conference": "SWAC",
+    "color": "#860038",
+    "logo": "/logos/fcs-2640.png"
+  },
+  {
+    "id": "fcs-2643",
+    "name": "The Citadel",
+    "mascot": "Bulldogs",
+    "division": "FCS",
+    "conference": "Southern",
+    "color": "#7badd3",
+    "logo": "/logos/fcs-2643.png"
+  },
+  {
+    "id": "fcs-119",
+    "name": "Towson",
+    "mascot": "Tigers",
+    "division": "FCS",
+    "conference": "CAA",
+    "color": "#FFC229",
+    "logo": "/logos/fcs-119.png"
+  },
+  {
+    "id": "fcs-399",
+    "name": "UAlbany",
+    "mascot": "Great Danes",
+    "division": "FCS",
+    "conference": "CAA",
+    "color": "#3D2777",
+    "logo": "/logos/fcs-399.png"
+  },
+  {
+    "id": "fcs-302",
+    "name": "UC Davis",
+    "mascot": "Aggies",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "color": "#002855",
+    "logo": "/logos/fcs-302.png"
+  },
+  {
+    "id": "fcs-2630",
+    "name": "UT Martin",
+    "mascot": "Skyhawks",
+    "division": "FCS",
+    "conference": "OVC",
+    "color": "#FF6700",
+    "logo": "/logos/fcs-2630.png"
+  },
+  {
+    "id": "fcs-292",
+    "name": "UT Rio Grande Valley",
+    "mascot": "Vaqueros",
+    "division": "FCS",
+    "conference": "Southland",
+    "color": "#64748b",
+    "logo": "/logos/fcs-292.png"
+  },
+  {
+    "id": "fcs-3101",
+    "name": "Utah Tech",
+    "mascot": "Trailblazers",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "color": "#000000",
+    "logo": "/logos/fcs-3101.png"
+  },
+  {
+    "id": "fcs-2674",
+    "name": "Valparaiso",
+    "mascot": "Beacons",
+    "division": "FCS",
+    "conference": "Pioneer",
+    "color": "#794500",
+    "logo": "/logos/fcs-2674.png"
+  },
+  {
+    "id": "fcs-222",
+    "name": "Villanova",
+    "mascot": "Wildcats",
+    "division": "FCS",
+    "conference": "Patriot",
+    "color": "#00205b",
+    "logo": "/logos/fcs-222.png"
+  },
+  {
+    "id": "fcs-2678",
+    "name": "VMI",
+    "mascot": "Keydets",
+    "division": "FCS",
+    "conference": "Southern",
+    "color": "#ae122a",
+    "logo": "/logos/fcs-2678.png"
+  },
+  {
+    "id": "fcs-2681",
+    "name": "Wagner",
+    "mascot": "Seahawks",
+    "division": "FCS",
+    "conference": "NEC",
+    "color": "#00483A",
+    "logo": "/logos/fcs-2681.png"
+  },
+  {
+    "id": "fcs-2692",
+    "name": "Weber State",
+    "mascot": "Wildcats",
+    "division": "FCS",
+    "conference": "Big Sky",
+    "color": "#18005a",
+    "logo": "/logos/fcs-2692.png"
+  },
+  {
+    "id": "fcs-110242",
+    "name": "West Florida",
+    "mascot": "Argonauts",
+    "division": "FCS",
+    "conference": "UAC",
+    "color": "#64748b",
+    "logo": "/logos/fcs-110242.png"
+  },
+  {
+    "id": "fcs-2698",
+    "name": "West Georgia",
+    "mascot": "Wolves",
+    "division": "FCS",
+    "conference": "UAC",
+    "color": "#0033a1",
+    "logo": "/logos/fcs-2698.png"
+  },
+  {
+    "id": "fcs-2717",
+    "name": "Western Carolina",
+    "mascot": "Catamounts",
+    "division": "FCS",
+    "conference": "Southern",
+    "color": "#492F91",
+    "logo": "/logos/fcs-2717.png"
+  },
+  {
+    "id": "fcs-2710",
+    "name": "Western Illinois",
+    "mascot": "Leathernecks",
+    "division": "FCS",
+    "conference": "OVC",
+    "color": "#4e1e8a",
+    "logo": "/logos/fcs-2710.png"
+  },
+  {
+    "id": "fcs-2729",
+    "name": "William & Mary",
+    "mascot": "Tribe",
+    "division": "FCS",
+    "conference": "Patriot",
+    "color": "#115740",
+    "logo": "/logos/fcs-2729.png"
+  },
+  {
+    "id": "fcs-2747",
+    "name": "Wofford",
+    "mascot": "Terriers",
+    "division": "FCS",
+    "conference": "Southern",
+    "color": "#533B23",
+    "logo": "/logos/fcs-2747.png"
+  },
+  {
+    "id": "fcs-43",
+    "name": "Yale",
+    "mascot": "Bulldogs",
+    "division": "FCS",
+    "conference": "Ivy",
+    "color": "#004a81",
+    "logo": "/logos/fcs-43.png"
+  },
+  {
+    "id": "fcs-2754",
+    "name": "Youngstown State",
+    "mascot": "Penguins",
+    "division": "FCS",
+    "conference": "MVFC",
+    "color": "#E51936",
+    "logo": "/logos/fcs-2754.png"
+  },
+  {
+    "id": "dii-2001",
+    "name": "Adams State",
+    "mascot": "Grizzlies",
+    "division": "DII",
+    "conference": "Rocky Mountain",
+    "color": "#000000",
+    "logo": "/logos/dii-2001.png"
+  },
+  {
+    "id": "dii-2013",
+    "name": "Albany State",
+    "mascot": "Golden Rams",
+    "division": "DII",
+    "conference": "SIAC",
+    "color": "#000000",
+    "logo": "/logos/dii-2013.png"
+  },
+  {
+    "id": "dii-2019",
+    "name": "Allen",
+    "mascot": "Yellow Jackets",
+    "division": "DII",
+    "conference": "SIAC",
+    "color": "#64748b",
+    "logo": "/logos/dii-2019.png"
+  },
+  {
+    "id": "dii-2022",
+    "name": "American International",
+    "mascot": "Yellow Jackets",
+    "division": "DII",
+    "conference": "Northeast 10",
+    "color": "#000000",
+    "logo": "/logos/dii-2022.png"
+  },
+  {
+    "id": "dii-129469",
+    "name": "Anderson (SC)",
+    "mascot": "Trojans",
+    "division": "DII",
+    "conference": "South Atlantic",
+    "color": "#64748b",
+    "logo": "/logos/dii-129469.png"
+  },
+  {
+    "id": "dii-2025",
+    "name": "Angelo State",
+    "mascot": "Rams",
+    "division": "DII",
+    "conference": "Lone Star",
+    "color": "#000000",
+    "logo": "/logos/dii-2025.png"
+  },
+  {
+    "id": "dii-2033",
+    "name": "Arkansas Tech",
+    "mascot": "Wonder Boys",
+    "division": "DII",
+    "conference": "Great American",
+    "color": "#000000",
+    "logo": "/logos/dii-2033.png"
+  },
+  {
+    "id": "dii-2028",
+    "name": "Arkansas-Monticello",
+    "mascot": "Boll Weevils",
+    "division": "DII",
+    "conference": "Great American",
+    "color": "#000000",
+    "logo": "/logos/dii-2028.png"
+  },
+  {
+    "id": "dii-308",
+    "name": "Ashland",
+    "mascot": "Eagles",
+    "division": "DII",
+    "conference": "Great Midwest Athletic",
+    "color": "#000000",
+    "logo": "/logos/dii-308.png"
+  },
+  {
+    "id": "dii-2038",
+    "name": "Assumption",
+    "mascot": "Greyhounds",
+    "division": "DII",
+    "conference": "Northeast 10",
+    "color": "#000000",
+    "logo": "/logos/dii-2038.png"
+  },
+  {
+    "id": "dii-2043",
+    "name": "Augustana (SD)",
+    "mascot": "Vikings",
+    "division": "DII",
+    "conference": "Northern Sun",
+    "color": "#000000",
+    "logo": "/logos/dii-2043.png"
+  },
+  {
+    "id": "dii-122666",
+    "name": "Barton",
+    "mascot": "Bulldogs",
+    "division": "DII",
+    "conference": "Conference Carolinas",
+    "color": "#000000",
+    "logo": "/logos/dii-122666.png"
+  },
+  {
+    "id": "dii-132",
+    "name": "Bemidji State",
+    "mascot": "Beavers",
+    "division": "DII",
+    "conference": "Northern Sun",
+    "color": "#000000",
+    "logo": "/logos/dii-132.png"
+  },
+  {
+    "id": "dii-490",
+    "name": "Benedict College",
+    "mascot": "Tigers",
+    "division": "DII",
+    "conference": "SIAC",
+    "color": "#64748b",
+    "logo": "/logos/dii-490.png"
+  },
+  {
+    "id": "dii-2060",
+    "name": "Bentley",
+    "mascot": "Falcons",
+    "division": "DII",
+    "conference": "Northeast 10",
+    "color": "#000000",
+    "logo": "/logos/dii-2060.png"
+  },
+  {
+    "id": "dii-2069",
+    "name": "Black Hills State",
+    "mascot": "Yellow Jackets",
+    "division": "DII",
+    "conference": "Rocky Mountain",
+    "color": "#000000",
+    "logo": "/logos/dii-2069.png"
+  },
+  {
+    "id": "dii-2071",
+    "name": "Bloomsburg",
+    "mascot": "Huskies",
+    "division": "DII",
+    "conference": "Pennsylvania State Athletic",
+    "color": "#000000",
+    "logo": "/logos/dii-2071.png"
+  },
+  {
+    "id": "dii-124180",
+    "name": "Bluefield State University",
+    "mascot": "Big Blue",
+    "division": "DII",
+    "conference": "CIAA",
+    "color": "#64748b",
+    "logo": "/logos/dii-124180.png"
+  },
+  {
+    "id": "dii-2075",
+    "name": "Bowie State",
+    "mascot": "Bulldogs",
+    "division": "DII",
+    "conference": "CIAA",
+    "color": "#000000",
+    "logo": "/logos/dii-2075.png"
+  },
+  {
+    "id": "dii-2913",
+    "name": "Brevard College",
+    "mascot": "Tornados",
+    "division": "DII",
+    "conference": "USA South",
+    "color": "#000000",
+    "logo": "/logos/dii-2913.png"
+  },
+  {
+    "id": "dii-2858",
+    "name": "California (PA)",
+    "mascot": "Vulcans",
+    "division": "DII",
+    "conference": "Pennsylvania State Athletic",
+    "color": "#000000",
+    "logo": "/logos/dii-2858.png"
+  },
+  {
+    "id": "dii-2105",
+    "name": "Carson-Newman",
+    "mascot": "Eagles",
+    "division": "DII",
+    "conference": "South Atlantic",
+    "color": "#f2682a",
+    "logo": "/logos/dii-2105.png"
+  },
+  {
+    "id": "dii-2107",
+    "name": "Catawba",
+    "mascot": "Indians",
+    "division": "DII",
+    "conference": "South Atlantic",
+    "color": "#0c233f",
+    "logo": "/logos/dii-2107.png"
+  },
+  {
+    "id": "dii-2118",
+    "name": "Central Missouri",
+    "mascot": "Mules",
+    "division": "DII",
+    "conference": "Mid America",
+    "color": "#000000",
+    "logo": "/logos/dii-2118.png"
+  },
+  {
+    "id": "dii-2122",
+    "name": "Central Oklahoma",
+    "mascot": "Bronchos",
+    "division": "DII",
+    "conference": "Mid America",
+    "color": "#000000",
+    "logo": "/logos/dii-2122.png"
+  },
+  {
+    "id": "dii-2119",
+    "name": "Central State (OH)",
+    "mascot": "Marauders",
+    "division": "DII",
+    "conference": "SIAC",
+    "color": "#000000",
+    "logo": "/logos/dii-2119.png"
+  },
+  {
+    "id": "dii-2120",
+    "name": "Central Washington",
+    "mascot": "Wildcats",
+    "division": "DII",
+    "conference": "Lone Star",
+    "color": "#000000",
+    "logo": "/logos/dii-2120.png"
+  },
+  {
+    "id": "dii-2123",
+    "name": "Chadron State",
+    "mascot": "Eagles",
+    "division": "DII",
+    "conference": "Rocky Mountain",
+    "color": "#000000",
+    "logo": "/logos/dii-2123.png"
+  },
+  {
+    "id": "dii-2804",
+    "name": "Chowan",
+    "mascot": "Hawks",
+    "division": "DII",
+    "conference": "Conference Carolinas",
+    "color": "#000000",
+    "logo": "/logos/dii-2804.png"
+  },
+  {
+    "id": "dii-2134",
+    "name": "Clarion",
+    "mascot": "Golden Eagles",
+    "division": "DII",
+    "conference": "Pennsylvania State Athletic",
+    "color": "#000000",
+    "logo": "/logos/dii-2134.png"
+  },
+  {
+    "id": "dii-2805",
+    "name": "Clark Atlanta",
+    "mascot": "Panthers",
+    "division": "DII",
+    "conference": "SIAC",
+    "color": "#000000",
+    "logo": "/logos/dii-2805.png"
+  },
+  {
+    "id": "dii-11",
+    "name": "Colorado Mesa",
+    "mascot": "Mavericks",
+    "division": "DII",
+    "conference": "Rocky Mountain",
+    "color": "#000000",
+    "logo": "/logos/dii-11.png"
+  },
+  {
+    "id": "dii-2146",
+    "name": "Colorado School of Mines",
+    "mascot": "Orediggers",
+    "division": "DII",
+    "conference": "Rocky Mountain",
+    "color": "#000000",
+    "logo": "/logos/dii-2146.png"
+  },
+  {
+    "id": "dii-2148",
+    "name": "Concord",
+    "mascot": "Mountain Lions",
+    "division": "DII",
+    "conference": "Mountain East",
+    "color": "#000000",
+    "logo": "/logos/dii-2148.png"
+  },
+  {
+    "id": "dii-3066",
+    "name": "Concordia-St. Paul",
+    "mascot": "Golden Bears",
+    "division": "DII",
+    "conference": "Northern Sun",
+    "color": "#000000",
+    "logo": "/logos/dii-3066.png"
+  },
+  {
+    "id": "dii-2570",
+    "name": "CSU Pueblo",
+    "mascot": "ThunderWolves",
+    "division": "DII",
+    "conference": "Rocky Mountain",
+    "color": "#000000",
+    "logo": "/logos/dii-2570.png"
+  },
+  {
+    "id": "dii-110254",
+    "name": "Davenport",
+    "mascot": "Panthers",
+    "division": "DII",
+    "conference": "GLIAC",
+    "color": "#64748b",
+    "logo": "/logos/dii-110254.png"
+  },
+  {
+    "id": "dii-110438",
+    "name": "Dean College",
+    "mascot": "Bulldogs",
+    "division": "DII",
+    "conference": "MSCAC",
+    "color": "#64748b",
+    "logo": "/logos/dii-110438.png"
+  },
+  {
+    "id": "dii-2170",
+    "name": "Delta State",
+    "mascot": "Statesmen",
+    "division": "DII",
+    "conference": "Gulf South",
+    "color": "#00753e",
+    "logo": "/logos/dii-2170.png"
+  },
+  {
+    "id": "dii-2191",
+    "name": "East Central (OK)",
+    "mascot": "Tigers",
+    "division": "DII",
+    "conference": "Great American",
+    "color": "#000000",
+    "logo": "/logos/dii-2191.png"
+  },
+  {
+    "id": "dii-2188",
+    "name": "East Stroudsburg",
+    "mascot": "Warriors",
+    "division": "DII",
+    "conference": "Pennsylvania State Athletic",
+    "color": "#000000",
+    "logo": "/logos/dii-2188.png"
+  },
+  {
+    "id": "dii-2201",
+    "name": "Eastern New Mexico",
+    "mascot": "Greyhounds",
+    "division": "DII",
+    "conference": "Lone Star",
+    "color": "#000000",
+    "logo": "/logos/dii-2201.png"
+  },
+  {
+    "id": "dii-2205",
+    "name": "Edinboro",
+    "mascot": "Fighting Scots",
+    "division": "DII",
+    "conference": "Pennsylvania State Athletic",
+    "color": "#000000",
+    "logo": "/logos/dii-2205.png"
+  },
+  {
+    "id": "dii-2206",
+    "name": "Edward Waters",
+    "mascot": "Tigers",
+    "division": "DII",
+    "conference": "SIAC",
+    "color": "#64748b",
+    "logo": "/logos/dii-2206.png"
+  },
+  {
+    "id": "dii-2207",
+    "name": "Elizabeth City State",
+    "mascot": "Vikings",
+    "division": "DII",
+    "conference": "CIAA",
+    "color": "#000000",
+    "logo": "/logos/dii-2207.png"
+  },
+  {
+    "id": "dii-2213",
+    "name": "Emory & Henry College",
+    "mascot": "Wasps",
+    "division": "DII",
+    "conference": "South Atlantic",
+    "color": "#1e376d",
+    "logo": "/logos/dii-2213.png"
+  },
+  {
+    "id": "dii-2214",
+    "name": "Emporia State",
+    "mascot": "Hornets",
+    "division": "DII",
+    "conference": "Mid America",
+    "color": "#000000",
+    "logo": "/logos/dii-2214.png"
+  },
+  {
+    "id": "dii-101784",
+    "name": "Erskine",
+    "mascot": "Flying Fleet",
+    "division": "DII",
+    "conference": "Conference Carolinas",
+    "color": "#000000",
+    "logo": "/logos/dii-101784.png"
+  },
+  {
+    "id": "dii-2986",
+    "name": "Fairmont State",
+    "mascot": "Falcons",
+    "division": "DII",
+    "conference": "Mountain East",
+    "color": "#000000",
+    "logo": "/logos/dii-2986.png"
+  },
+  {
+    "id": "dii-2220",
+    "name": "Fayetteville State",
+    "mascot": "Broncos",
+    "division": "DII",
+    "conference": "CIAA",
+    "color": "#000000",
+    "logo": "/logos/dii-2220.png"
+  },
+  {
+    "id": "dii-2221",
+    "name": "FDU-Florham",
+    "mascot": "Devils",
+    "division": "DII",
+    "conference": "Mid Atlantic",
+    "color": "#003f87",
+    "logo": "/logos/dii-2221.png"
+  },
+  {
+    "id": "dii-2222",
+    "name": "Ferris State",
+    "mascot": "Bulldogs",
+    "division": "DII",
+    "conference": "GLIAC",
+    "color": "#000000",
+    "logo": "/logos/dii-2222.png"
+  },
+  {
+    "id": "dii-366",
+    "name": "Ferrum",
+    "mascot": "Panthers",
+    "division": "DII",
+    "conference": "Conference Carolinas",
+    "color": "#000000",
+    "logo": "/logos/dii-366.png"
+  },
+  {
+    "id": "dii-2224",
+    "name": "Findlay",
+    "mascot": "Oilers",
+    "division": "DII",
+    "conference": "Great Midwest Athletic",
+    "color": "#000000",
+    "logo": "/logos/dii-2224.png"
+  },
+  {
+    "id": "dii-2231",
+    "name": "Fort Hays State",
+    "mascot": "Tigers",
+    "division": "DII",
+    "conference": "Mid America",
+    "color": "#000000",
+    "logo": "/logos/dii-2231.png"
+  },
+  {
+    "id": "dii-2237",
+    "name": "Fort Lewis",
+    "mascot": "Skyhawks",
+    "division": "DII",
+    "conference": "Rocky Mountain",
+    "color": "#000000",
+    "logo": "/logos/dii-2237.png"
+  },
+  {
+    "id": "dii-2232",
+    "name": "Fort Valley State",
+    "mascot": "Wildcats",
+    "division": "DII",
+    "conference": "SIAC",
+    "color": "#f9bd0a",
+    "logo": "/logos/dii-2232.png"
+  },
+  {
+    "id": "dii-112334",
+    "name": "Franklin Pierce",
+    "mascot": "Ravens",
+    "division": "DII",
+    "conference": "Northeast 10",
+    "color": "#64748b",
+    "logo": "/logos/dii-112334.png"
+  },
+  {
+    "id": "dii-341",
+    "name": "Frostburg State",
+    "mascot": "Bobcats",
+    "division": "DII",
+    "conference": "Mountain East",
+    "color": "#000000",
+    "logo": "/logos/dii-341.png"
+  },
+  {
+    "id": "dii-367",
+    "name": "Gannon",
+    "mascot": "Golden Knights",
+    "division": "DII",
+    "conference": "Pennsylvania State Athletic",
+    "color": "#000000",
+    "logo": "/logos/dii-367.png"
+  },
+  {
+    "id": "dii-2249",
+    "name": "Glenville State",
+    "mascot": "Pioneers",
+    "division": "DII",
+    "conference": "Mountain East",
+    "color": "#000000",
+    "logo": "/logos/dii-2249.png"
+  },
+  {
+    "id": "dii-125",
+    "name": "Grand Valley State",
+    "mascot": "Lakers",
+    "division": "DII",
+    "conference": "GLIAC",
+    "color": "#000000",
+    "logo": "/logos/dii-125.png"
+  },
+  {
+    "id": "dii-2264",
+    "name": "Harding University",
+    "mascot": "Bisons",
+    "division": "DII",
+    "conference": "Great American",
+    "color": "#000000",
+    "logo": "/logos/dii-2264.png"
+  },
+  {
+    "id": "dii-2271",
+    "name": "Henderson State",
+    "mascot": "Reddies",
+    "division": "DII",
+    "conference": "Great American",
+    "color": "#000000",
+    "logo": "/logos/dii-2271.png"
+  },
+  {
+    "id": "dii-2273",
+    "name": "Hillsdale",
+    "mascot": "Chargers",
+    "division": "DII",
+    "conference": "Great Midwest Athletic",
+    "color": "#000000",
+    "logo": "/logos/dii-2273.png"
+  },
+  {
+    "id": "dii-2291",
+    "name": "Indiana-Pennsylvania",
+    "mascot": "Crimson Hawks",
+    "division": "DII",
+    "conference": "Pennsylvania State Athletic",
+    "color": "#000000",
+    "logo": "/logos/dii-2291.png"
+  },
+  {
+    "id": "dii-2292",
+    "name": "Indianapolis",
+    "mascot": "Greyhounds",
+    "division": "DII",
+    "conference": "Great Lakes",
+    "color": "#000000",
+    "logo": "/logos/dii-2292.png"
+  },
+  {
+    "id": "dii-2939",
+    "name": "Jamestown",
+    "mascot": "Jimmies",
+    "division": "DII",
+    "conference": "Northern Sun",
+    "color": "#000000"
+  },
+  {
+    "id": "dii-2304",
+    "name": "Johnson C Smith",
+    "mascot": "Golden Bulls",
+    "division": "DII",
+    "conference": "CIAA",
+    "color": "#000000",
+    "logo": "/logos/dii-2304.png"
+  },
+  {
+    "id": "dii-2310",
+    "name": "Kentucky State",
+    "mascot": "Thorobreds",
+    "division": "DII",
+    "conference": "SIAC",
+    "color": "#000000",
+    "logo": "/logos/dii-2310.png"
+  },
+  {
+    "id": "dii-2316",
+    "name": "Kentucky Wesleyan",
+    "mascot": "Panthers",
+    "division": "DII",
+    "conference": "Great Midwest Athletic",
+    "color": "#000000",
+    "logo": "/logos/dii-2316.png"
+  },
+  {
+    "id": "dii-2315",
+    "name": "Kutztown",
+    "mascot": "Golden Bears",
+    "division": "DII",
+    "conference": "Pennsylvania State Athletic",
+    "color": "#000000",
+    "logo": "/logos/dii-2315.png"
+  },
+  {
+    "id": "dii-132714",
+    "name": "Lackawanna",
+    "mascot": "Falcons",
+    "division": "DII",
+    "conference": "Pennsylvania State Athletic",
+    "color": "#64748b"
+  },
+  {
+    "id": "dii-437",
+    "name": "Lake Erie",
+    "mascot": "Storm",
+    "division": "DII",
+    "conference": "Great Midwest Athletic",
+    "color": "#000000",
+    "logo": "/logos/dii-437.png"
+  },
+  {
+    "id": "dii-2323",
+    "name": "Lane",
+    "mascot": "Dragons",
+    "division": "DII",
+    "conference": "SIAC",
+    "color": "#000000",
+    "logo": "/logos/dii-2323.png"
+  },
+  {
+    "id": "dii-2331",
+    "name": "Lenoir-Rhyne",
+    "mascot": "Bears",
+    "division": "DII",
+    "conference": "South Atlantic",
+    "color": "#000000",
+    "logo": "/logos/dii-2331.png"
+  },
+  {
+    "id": "dii-2876",
+    "name": "Lincoln (MO)",
+    "mascot": "Blue Tigers",
+    "division": "DII",
+    "conference": "Great Lakes",
+    "color": "#000000",
+    "logo": "/logos/dii-2876.png"
+  },
+  {
+    "id": "dii-2339",
+    "name": "Lincoln (PA)",
+    "mascot": "Lions",
+    "division": "DII",
+    "conference": "CIAA",
+    "color": "#000000",
+    "logo": "/logos/dii-2339.png"
+  },
+  {
+    "id": "dii-2940",
+    "name": "Livingstone",
+    "mascot": "Blue Bears",
+    "division": "DII",
+    "conference": "CIAA",
+    "color": "#000000",
+    "logo": "/logos/dii-2940.png"
+  },
+  {
+    "id": "dii-209",
+    "name": "Lock Haven",
+    "mascot": "Bald Eagles",
+    "division": "DII",
+    "conference": "Pennsylvania State Athletic",
+    "color": "#000000",
+    "logo": "/logos/dii-209.png"
+  },
+  {
+    "id": "dii-2369",
+    "name": "Mars Hill",
+    "mascot": "Lions",
+    "division": "DII",
+    "conference": "South Atlantic",
+    "color": "#004b8d",
+    "logo": "/logos/dii-2369.png"
+  },
+  {
+    "id": "dii-2816",
+    "name": "McKendree",
+    "mascot": "Bearcats",
+    "division": "DII",
+    "conference": "Great Lakes",
+    "color": "#000000",
+    "logo": "/logos/dii-2816.png"
+  },
+  {
+    "id": "dii-2392",
+    "name": "Michigan Tech",
+    "mascot": "Huskies",
+    "division": "DII",
+    "conference": "GLIAC",
+    "color": "#000000",
+    "logo": "/logos/dii-2392.png"
+  },
+  {
+    "id": "dii-2395",
+    "name": "Midwestern State",
+    "mascot": "Mustangs",
+    "division": "DII",
+    "conference": "Lone Star",
+    "color": "#000000"
+  },
+  {
+    "id": "dii-2396",
+    "name": "Miles College",
+    "mascot": "Golden Bears",
+    "division": "DII",
+    "conference": "SIAC",
+    "color": "#000000",
+    "logo": "/logos/dii-2396.png"
+  },
+  {
+    "id": "dii-210",
+    "name": "Millersville",
+    "mascot": "Marauders",
+    "division": "DII",
+    "conference": "Pennsylvania State Athletic",
+    "color": "#000000",
+    "logo": "/logos/dii-210.png"
+  },
+  {
+    "id": "dii-134",
+    "name": "Minnesota Duluth",
+    "mascot": "Bulldogs",
+    "division": "DII",
+    "conference": "Northern Sun",
+    "color": "#000000",
+    "logo": "/logos/dii-134.png"
+  },
+  {
+    "id": "dii-2364",
+    "name": "Minnesota State Mankato",
+    "mascot": "Mavericks",
+    "division": "DII",
+    "conference": "Northern Sun",
+    "color": "#000000",
+    "logo": "/logos/dii-2364.png"
+  },
+  {
+    "id": "dii-2817",
+    "name": "Minnesota State Moorhead",
+    "mascot": "Dragons",
+    "division": "DII",
+    "conference": "Northern Sun",
+    "color": "#000000",
+    "logo": "/logos/dii-2817.png"
+  },
+  {
+    "id": "dii-568",
+    "name": "Minot State",
+    "mascot": "Beavers",
+    "division": "DII",
+    "conference": "Northern Sun",
+    "color": "#000000",
+    "logo": "/logos/dii-568.png"
+  },
+  {
+    "id": "dii-2969",
+    "name": "Misericordia",
+    "mascot": "Cougars",
+    "division": "DII",
+    "conference": "Mid Atlantic",
+    "color": "#000000",
+    "logo": "/logos/dii-2969.png"
+  },
+  {
+    "id": "dii-2402",
+    "name": "Missouri S&T",
+    "mascot": "Miners",
+    "division": "DII",
+    "conference": "Great Lakes",
+    "color": "#000000",
+    "logo": "/logos/dii-2402.png"
+  },
+  {
+    "id": "dii-2403",
+    "name": "Missouri Southern State",
+    "mascot": "Lions",
+    "division": "DII",
+    "conference": "Mid America",
+    "color": "#000000",
+    "logo": "/logos/dii-2403.png"
+  },
+  {
+    "id": "dii-137",
+    "name": "Missouri Western",
+    "mascot": "Griffons",
+    "division": "DII",
+    "conference": "Mid America",
+    "color": "#000000",
+    "logo": "/logos/dii-137.png"
+  },
+  {
+    "id": "dii-60",
+    "name": "Morehouse College",
+    "mascot": "Maroon Tigers",
+    "division": "DII",
+    "conference": "SIAC",
+    "color": "#000000",
+    "logo": "/logos/dii-60.png"
+  },
+  {
+    "id": "dii-2438",
+    "name": "Nebraska-Kearney",
+    "mascot": "Lopers",
+    "division": "DII",
+    "conference": "Mid America",
+    "color": "#000000",
+    "logo": "/logos/dii-2438.png"
+  },
+  {
+    "id": "dii-2424",
+    "name": "New Mexico Highlands",
+    "mascot": "Cowboys",
+    "division": "DII",
+    "conference": "Rocky Mountain",
+    "color": "#000000",
+    "logo": "/logos/dii-2424.png"
+  },
+  {
+    "id": "dii-2444",
+    "name": "Newberry",
+    "mascot": "Wolves",
+    "division": "DII",
+    "conference": "South Atlantic",
+    "color": "#d02030",
+    "logo": "/logos/dii-2444.png"
+  },
+  {
+    "id": "dii-2822",
+    "name": "North Greenville",
+    "mascot": "Trailblazers",
+    "division": "DII",
+    "conference": "Conference Carolinas",
+    "color": "#d91e39",
+    "logo": "/logos/dii-2822.png"
+  },
+  {
+    "id": "dii-196",
+    "name": "Northeastern State",
+    "mascot": "RiverHawks",
+    "division": "DII",
+    "conference": "Independent DII",
+    "color": "#000000",
+    "logo": "/logos/dii-196.png"
+  },
+  {
+    "id": "dii-128",
+    "name": "Northern Michigan",
+    "mascot": "Wildcats",
+    "division": "DII",
+    "conference": "GLIAC",
+    "color": "#000000",
+    "logo": "/logos/dii-128.png"
+  },
+  {
+    "id": "dii-425",
+    "name": "Northern State",
+    "mascot": "Wolves",
+    "division": "DII",
+    "conference": "Northern Sun",
+    "color": "#000000"
+  },
+  {
+    "id": "dii-138",
+    "name": "Northwest Missouri State",
+    "mascot": "Bearcats",
+    "division": "DII",
+    "conference": "Mid America",
+    "color": "#000000",
+    "logo": "/logos/dii-138.png"
+  },
+  {
+    "id": "dii-2823",
+    "name": "Northwestern Oklahoma State",
+    "mascot": "Rangers",
+    "division": "DII",
+    "conference": "Great American",
+    "color": "#000000",
+    "logo": "/logos/dii-2823.png"
+  },
+  {
+    "id": "dii-2886",
+    "name": "Northwood (MI)",
+    "mascot": "Timberwolves",
+    "division": "DII",
+    "conference": "Great Midwest Athletic",
+    "color": "#000000",
+    "logo": "/logos/dii-2886.png"
+  },
+  {
+    "id": "dii-2477",
+    "name": "Ohio Dominican",
+    "mascot": "Panthers",
+    "division": "DII",
+    "conference": "Great Midwest Athletic",
+    "color": "#000000",
+    "logo": "/logos/dii-2477.png"
+  },
+  {
+    "id": "dii-319",
+    "name": "Oklahoma Baptist",
+    "mascot": "Bison",
+    "division": "DII",
+    "conference": "Great American",
+    "color": "#64748b",
+    "logo": "/logos/dii-319.png"
+  },
+  {
+    "id": "dii-2888",
+    "name": "Ouachita Baptist",
+    "mascot": "Tigers",
+    "division": "DII",
+    "conference": "Great American",
+    "color": "#000000",
+    "logo": "/logos/dii-2888.png"
+  },
+  {
+    "id": "dii-2487",
+    "name": "Pace",
+    "mascot": "Setters",
+    "division": "DII",
+    "conference": "Northeast 10",
+    "color": "#000000",
+    "logo": "/logos/dii-2487.png"
+  },
+  {
+    "id": "dii-205",
+    "name": "Pacific (OR)",
+    "mascot": "Boxers",
+    "division": "DII",
+    "conference": "Northwest",
+    "color": "#b4183a",
+    "logo": "/logos/dii-205.png"
+  },
+  {
+    "id": "dii-90",
+    "name": "Pittsburg State",
+    "mascot": "Gorillas",
+    "division": "DII",
+    "conference": "Mid America",
+    "color": "#000000",
+    "logo": "/logos/dii-90.png"
+  },
+  {
+    "id": "dii-126086",
+    "name": "Post University",
+    "mascot": "Eagles",
+    "division": "DII",
+    "conference": "Northeast 10",
+    "color": "#64748b",
+    "logo": "/logos/dii-126086.png"
+  },
+  {
+    "id": "dii-2825",
+    "name": "Quincy",
+    "mascot": "Hawks",
+    "division": "DII",
+    "conference": "Great Lakes",
+    "color": "#000000",
+    "logo": "/logos/dii-2825.png"
+  },
+  {
+    "id": "dii-127991",
+    "name": "Roosevelt",
+    "mascot": "Lakers",
+    "division": "DII",
+    "conference": "GLIAC",
+    "color": "#000000"
+  },
+  {
+    "id": "dii-129",
+    "name": "Saginaw Valley State",
+    "mascot": "Cardinals",
+    "division": "DII",
+    "conference": "GLIAC",
+    "color": "#000000",
+    "logo": "/logos/dii-129.png"
+  },
+  {
+    "id": "dii-2542",
+    "name": "Savannah State",
+    "mascot": "Tigers",
+    "division": "DII",
+    "conference": "SIAC",
+    "color": "#280298",
+    "logo": "/logos/dii-2542.png"
+  },
+  {
+    "id": "dii-611",
+    "name": "Seton Hill",
+    "mascot": "Griffins",
+    "division": "DII",
+    "conference": "Pennsylvania State Athletic",
+    "color": "#000000",
+    "logo": "/logos/dii-611.png"
+  },
+  {
+    "id": "dii-2551",
+    "name": "Shaw",
+    "mascot": "Bears",
+    "division": "DII",
+    "conference": "CIAA",
+    "color": "#000000",
+    "logo": "/logos/dii-2551.png"
+  },
+  {
+    "id": "dii-2974",
+    "name": "Shepherd",
+    "mascot": "Rams",
+    "division": "DII",
+    "conference": "Pennsylvania State Athletic",
+    "color": "#000000",
+    "logo": "/logos/dii-2974.png"
+  },
+  {
+    "id": "dii-2559",
+    "name": "Shippensburg",
+    "mascot": "Raiders",
+    "division": "DII",
+    "conference": "Pennsylvania State Athletic",
+    "color": "#000000",
+    "logo": "/logos/dii-2559.png"
+  },
+  {
+    "id": "dii-2560",
+    "name": "Shorter",
+    "mascot": "Hawks",
+    "division": "DII",
+    "conference": "Conference Carolinas",
+    "color": "#000000",
+    "logo": "/logos/dii-2560.png"
+  },
+  {
+    "id": "dii-2894",
+    "name": "Sioux Falls",
+    "mascot": "Cougars",
+    "division": "DII",
+    "conference": "Northern Sun",
+    "color": "#000000",
+    "logo": "/logos/dii-2894.png"
+  },
+  {
+    "id": "dii-215",
+    "name": "Slippery Rock",
+    "mascot": "The Rock",
+    "division": "DII",
+    "conference": "Pennsylvania State Athletic",
+    "color": "#000000",
+    "logo": "/logos/dii-215.png"
+  },
+  {
+    "id": "dii-613",
+    "name": "South Dakota Mines",
+    "mascot": "Hardrockers",
+    "division": "DII",
+    "conference": "Rocky Mountain",
+    "color": "#000000",
+    "logo": "/logos/dii-613.png"
+  },
+  {
+    "id": "dii-199",
+    "name": "Southeastern Oklahoma State",
+    "mascot": "Savage Storm",
+    "division": "DII",
+    "conference": "Great American",
+    "color": "#000000",
+    "logo": "/logos/dii-199.png"
+  },
+  {
+    "id": "dii-2568",
+    "name": "Southern Arkansas",
+    "mascot": "Muleriders",
+    "division": "DII",
+    "conference": "Great American",
+    "color": "#000000",
+    "logo": "/logos/dii-2568.png"
+  },
+  {
+    "id": "dii-2583",
+    "name": "Southern Connecticut State",
+    "mascot": "Owls",
+    "division": "DII",
+    "conference": "Northeast 10",
+    "color": "#000000",
+    "logo": "/logos/dii-2583.png"
+  },
+  {
+    "id": "dii-200",
+    "name": "Southern Nazarene",
+    "mascot": "Crimson Storm",
+    "division": "DII",
+    "conference": "Great American",
+    "color": "#000000",
+    "logo": "/logos/dii-200.png"
+  },
+  {
+    "id": "dii-2586",
+    "name": "Southwest Baptist",
+    "mascot": "Bearcats",
+    "division": "DII",
+    "conference": "Great Lakes",
+    "color": "#000000",
+    "logo": "/logos/dii-2586.png"
+  },
+  {
+    "id": "dii-2587",
+    "name": "Southwest Minnesota State",
+    "mascot": "Mustangs",
+    "division": "DII",
+    "conference": "Northern Sun",
+    "color": "#000000",
+    "logo": "/logos/dii-2587.png"
+  },
+  {
+    "id": "dii-2927",
+    "name": "Southwestern Oklahoma State",
+    "mascot": "Bulldogs",
+    "division": "DII",
+    "conference": "Great American",
+    "color": "#000000",
+    "logo": "/logos/dii-2927.png"
+  },
+  {
+    "id": "dii-2830",
+    "name": "St. Anselm",
+    "mascot": "Hawks",
+    "division": "DII",
+    "conference": "Northeast 10",
+    "color": "#000000",
+    "logo": "/logos/dii-2830.png"
+  },
+  {
+    "id": "dii-471",
+    "name": "Stevenson",
+    "mascot": "Mustangs",
+    "division": "DII",
+    "conference": "Mid Atlantic",
+    "color": "#005747",
+    "logo": "/logos/dii-471.png"
+  },
+  {
+    "id": "dii-2834",
+    "name": "Sul Ross State",
+    "mascot": "Lobos",
+    "division": "DII",
+    "conference": "Lone Star",
+    "color": "#000000",
+    "logo": "/logos/dii-2834.png"
+  },
+  {
+    "id": "dii-2658",
+    "name": "Texas A&M-Kingsville",
+    "mascot": "Javelinas",
+    "division": "DII",
+    "conference": "Lone Star",
+    "color": "#000000",
+    "logo": "/logos/dii-2658.png"
+  },
+  {
+    "id": "dii-2646",
+    "name": "Thomas More College",
+    "mascot": "Saints",
+    "division": "DII",
+    "conference": "Great Midwest Athletic",
+    "color": "#000000"
+  },
+  {
+    "id": "dii-2838",
+    "name": "Tiffin",
+    "mascot": "Dragons",
+    "division": "DII",
+    "conference": "Great Midwest Athletic",
+    "color": "#000000",
+    "logo": "/logos/dii-2838.png"
+  },
+  {
+    "id": "dii-2654",
+    "name": "Truman State",
+    "mascot": "Bulldogs",
+    "division": "DII",
+    "conference": "Great Lakes",
+    "color": "#000000",
+    "logo": "/logos/dii-2654.png"
+  },
+  {
+    "id": "dii-2839",
+    "name": "Tusculum",
+    "mascot": "Pioneers",
+    "division": "DII",
+    "conference": "South Atlantic",
+    "color": "#f2682a",
+    "logo": "/logos/dii-2839.png"
+  },
+  {
+    "id": "dii-2657",
+    "name": "Tuskegee",
+    "mascot": "Golden Tigers",
+    "division": "DII",
+    "conference": "SIAC",
+    "color": "#000000",
+    "logo": "/logos/dii-2657.png"
+  },
+  {
+    "id": "dii-2882",
+    "name": "UNC Pembroke",
+    "mascot": "Braves",
+    "division": "DII",
+    "conference": "Conference Carolinas",
+    "color": "#000000",
+    "logo": "/logos/dii-2882.png"
+  },
+  {
+    "id": "dii-2128",
+    "name": "University Of Charleston (WV)",
+    "mascot": "Golden Eagles",
+    "division": "DII",
+    "conference": "Mountain East",
+    "color": "#000000",
+    "logo": "/logos/dii-2128.png"
+  },
+  {
+    "id": "dii-559",
+    "name": "University of Mary",
+    "mascot": "Marauders",
+    "division": "DII",
+    "conference": "Northern Sun",
+    "color": "#000000",
+    "logo": "/logos/dii-559.png"
+  },
+  {
+    "id": "dii-389",
+    "name": "Upper Iowa",
+    "mascot": "Peacocks",
+    "division": "DII",
+    "conference": "Great Lakes",
+    "color": "#000000",
+    "logo": "/logos/dii-389.png"
+  },
+  {
+    "id": "dii-110243",
+    "name": "UT Permian Basin",
+    "mascot": "Falcons",
+    "division": "DII",
+    "conference": "Lone Star",
+    "color": "#64748b",
+    "logo": "/logos/dii-110243.png"
+  },
+  {
+    "id": "dii-2842",
+    "name": "UVA Wise",
+    "mascot": "Cavaliers",
+    "division": "DII",
+    "conference": "South Atlantic",
+    "color": "#e30000",
+    "logo": "/logos/dii-2842.png"
+  },
+  {
+    "id": "dii-2673",
+    "name": "Valdosta State",
+    "mascot": "Blazers",
+    "division": "DII",
+    "conference": "Gulf South",
+    "color": "#dd1a32",
+    "logo": "/logos/dii-2673.png"
+  },
+  {
+    "id": "dii-330",
+    "name": "Virginia State",
+    "mascot": "Trojans",
+    "division": "DII",
+    "conference": "CIAA",
+    "color": "#000000",
+    "logo": "/logos/dii-330.png"
+  },
+  {
+    "id": "dii-2676",
+    "name": "Virginia Union",
+    "mascot": "Panthers",
+    "division": "DII",
+    "conference": "CIAA",
+    "color": "#000000",
+    "logo": "/logos/dii-2676.png"
+  },
+  {
+    "id": "dii-2682",
+    "name": "Walsh",
+    "mascot": "Cavaliers",
+    "division": "DII",
+    "conference": "Great Midwest Athletic",
+    "color": "#000000"
+  },
+  {
+    "id": "dii-2687",
+    "name": "Washburn",
+    "mascot": "Ichabods",
+    "division": "DII",
+    "conference": "Mid America",
+    "color": "#000000",
+    "logo": "/logos/dii-2687.png"
+  },
+  {
+    "id": "dii-131",
+    "name": "Wayne State (MI)",
+    "mascot": "Warriors",
+    "division": "DII",
+    "conference": "GLIAC",
+    "color": "#000000",
+    "logo": "/logos/dii-131.png"
+  },
+  {
+    "id": "dii-2844",
+    "name": "Wayne State (NE)",
+    "mascot": "Wildcats",
+    "division": "DII",
+    "conference": "Northern Sun",
+    "color": "#000000",
+    "logo": "/logos/dii-2844.png"
+  },
+  {
+    "id": "dii-2695",
+    "name": "West Alabama",
+    "mascot": "Tigers",
+    "division": "DII",
+    "conference": "Gulf South",
+    "color": "#d31d33",
+    "logo": "/logos/dii-2695.png"
+  },
+  {
+    "id": "dii-223",
+    "name": "West Chester",
+    "mascot": "Golden Rams",
+    "division": "DII",
+    "conference": "Pennsylvania State Athletic",
+    "color": "#000000",
+    "logo": "/logos/dii-223.png"
+  },
+  {
+    "id": "dii-2699",
+    "name": "West Liberty",
+    "mascot": "Hilltoppers",
+    "division": "DII",
+    "conference": "Mountain East",
+    "color": "#000000",
+    "logo": "/logos/dii-2699.png"
+  },
+  {
+    "id": "dii-2704",
+    "name": "West Texas A&M",
+    "mascot": "Buffaloes",
+    "division": "DII",
+    "conference": "Lone Star",
+    "color": "#000000",
+    "logo": "/logos/dii-2704.png"
+  },
+  {
+    "id": "dii-2707",
+    "name": "West Virginia State",
+    "mascot": "Yellow Jackets",
+    "division": "DII",
+    "conference": "Mountain East",
+    "color": "#000000",
+    "logo": "/logos/dii-2707.png"
+  },
+  {
+    "id": "dii-455",
+    "name": "West Virginia Wesleyan",
+    "mascot": "Bobcats",
+    "division": "DII",
+    "conference": "Mountain East",
+    "color": "#000000",
+    "logo": "/logos/dii-455.png"
+  },
+  {
+    "id": "dii-2714",
+    "name": "Western Colorado",
+    "mascot": "Mountaineers",
+    "division": "DII",
+    "conference": "Rocky Mountain",
+    "color": "#000000",
+    "logo": "/logos/dii-2714.png"
+  },
+  {
+    "id": "dii-2703",
+    "name": "Western New Mexico",
+    "mascot": "Mustangs",
+    "division": "DII",
+    "conference": "Lone Star",
+    "color": "#000000",
+    "logo": "/logos/dii-2703.png"
+  },
+  {
+    "id": "dii-2848",
+    "name": "Western Oregon",
+    "mascot": "Wolves",
+    "division": "DII",
+    "conference": "Lone Star",
+    "color": "#000000",
+    "logo": "/logos/dii-2848.png"
+  },
+  {
+    "id": "dii-112335",
+    "name": "Wheeling",
+    "mascot": "Cardinals",
+    "division": "DII",
+    "conference": "Mountain East",
+    "color": "#64748b",
+    "logo": "/logos/dii-112335.png"
+  },
+  {
+    "id": "dii-2911",
+    "name": "William Jewell",
+    "mascot": "Cardinals",
+    "division": "DII",
+    "conference": "Great Lakes",
+    "color": "#000000",
+    "logo": "/logos/dii-2911.png"
+  },
+  {
+    "id": "dii-351",
+    "name": "Wingate",
+    "mascot": "Bulldogs",
+    "division": "DII",
+    "conference": "South Atlantic",
+    "color": "#182441",
+    "logo": "/logos/dii-351.png"
+  },
+  {
+    "id": "dii-2851",
+    "name": "Winona State",
+    "mascot": "Warriors",
+    "division": "DII",
+    "conference": "Northern Sun",
+    "color": "#000000",
+    "logo": "/logos/dii-2851.png"
+  },
+  {
+    "id": "dii-2736",
+    "name": "Winston-Salem",
+    "mascot": "Rams",
+    "division": "DII",
+    "conference": "CIAA",
+    "color": "#bb0100",
+    "logo": "/logos/dii-2736.png"
+  },
+  {
+    "id": "diii-2003",
+    "name": "Adrian",
+    "mascot": "Bulldogs",
+    "division": "DIII",
+    "conference": "Michigan",
+    "color": "#000000",
+    "logo": "/logos/diii-2003.png"
+  },
+  {
+    "id": "diii-2790",
+    "name": "Albion",
+    "mascot": "Britons",
+    "division": "DIII",
+    "conference": "Michigan",
+    "color": "#000000",
+    "logo": "/logos/diii-2790.png"
+  },
+  {
+    "id": "diii-2015",
+    "name": "Albright",
+    "mascot": "Lions",
+    "division": "DIII",
+    "conference": "Mid Atlantic",
+    "color": "#c82e48",
+    "logo": "/logos/diii-2015.png"
+  },
+  {
+    "id": "diii-365",
+    "name": "Alfred",
+    "mascot": "Saxons",
+    "division": "DIII",
+    "conference": "Empire 8",
+    "color": "#000000",
+    "logo": "/logos/diii-365.png"
+  },
+  {
+    "id": "diii-3162",
+    "name": "Alfred State College",
+    "mascot": "Pioneers",
+    "division": "DIII",
+    "conference": "Empire 8",
+    "color": "#000000",
+    "logo": "/logos/diii-3162.png"
+  },
+  {
+    "id": "diii-2018",
+    "name": "Allegheny",
+    "mascot": "Gators",
+    "division": "DIII",
+    "conference": "Presidents'",
+    "color": "#000000",
+    "logo": "/logos/diii-2018.png"
+  },
+  {
+    "id": "diii-2800",
+    "name": "Alma College",
+    "mascot": "Scots",
+    "division": "DIII",
+    "conference": "Michigan",
+    "color": "#000000",
+    "logo": "/logos/diii-2800.png"
+  },
+  {
+    "id": "diii-111674",
+    "name": "Alvernia",
+    "mascot": "Golden Wolves",
+    "division": "DIII",
+    "conference": "Mid Atlantic",
+    "color": "#64748b",
+    "logo": "/logos/diii-111674.png"
+  },
+  {
+    "id": "diii-7",
+    "name": "Amherst",
+    "mascot": "Mammoths",
+    "division": "DIII",
+    "conference": "NESCAC",
+    "color": "#3f1f69",
+    "logo": "/logos/diii-7.png"
+  },
+  {
+    "id": "diii-2023",
+    "name": "Anderson (IN)",
+    "mascot": "Ravens",
+    "division": "DIII",
+    "conference": "Heartland",
+    "color": "#000000",
+    "logo": "/logos/diii-2023.png"
+  },
+  {
+    "id": "diii-124",
+    "name": "Augsburg",
+    "mascot": "Auggies",
+    "division": "DIII",
+    "conference": "Minnesota",
+    "color": "#74233d",
+    "logo": "/logos/diii-124.png"
+  },
+  {
+    "id": "diii-2042",
+    "name": "Augustana (IL)",
+    "mascot": "Vikings",
+    "division": "DIII",
+    "conference": "CCIW",
+    "color": "#000000",
+    "logo": "/logos/diii-2042.png"
+  },
+  {
+    "id": "diii-2044",
+    "name": "Aurora",
+    "mascot": "Spartans",
+    "division": "DIII",
+    "conference": "NACC",
+    "color": "#00549f",
+    "logo": "/logos/diii-2044.png"
+  },
+  {
+    "id": "diii-2045",
+    "name": "Austin",
+    "mascot": "'Roos",
+    "division": "DIII",
+    "conference": "Southern Collegiate Athletic",
+    "color": "#000000",
+    "logo": "/logos/diii-2045.png"
+  },
+  {
+    "id": "diii-2047",
+    "name": "Averett",
+    "mascot": "Cougars",
+    "division": "DIII",
+    "conference": "Old Dominion",
+    "color": "#012853",
+    "logo": "/logos/diii-2047.png"
+  },
+  {
+    "id": "diii-2049",
+    "name": "Azusa Pacific",
+    "mascot": "Cougars",
+    "division": "DIII",
+    "conference": "So. Cal.",
+    "color": "#000000",
+    "logo": "/logos/diii-2049.png"
+  },
+  {
+    "id": "diii-188",
+    "name": "Baldwin Wallace",
+    "mascot": "Yellow Jackets",
+    "division": "DIII",
+    "conference": "Ohio",
+    "color": "#000000",
+    "logo": "/logos/diii-188.png"
+  },
+  {
+    "id": "diii-121",
+    "name": "Bates College",
+    "mascot": "Bobcats",
+    "division": "DIII",
+    "conference": "NESCAC",
+    "color": "#a51e36",
+    "logo": "/logos/diii-121.png"
+  },
+  {
+    "id": "diii-2056",
+    "name": "Belhaven",
+    "mascot": "Blazers",
+    "division": "DIII",
+    "conference": "USA South",
+    "color": "#215732",
+    "logo": "/logos/diii-2056.png"
+  },
+  {
+    "id": "diii-266",
+    "name": "Beloit College",
+    "mascot": "Buccaneers",
+    "division": "DIII",
+    "conference": "Midwest",
+    "color": "#000000",
+    "logo": "/logos/diii-266.png"
+  },
+  {
+    "id": "diii-2283",
+    "name": "Benedictine University (IL)",
+    "mascot": "Eagles",
+    "division": "DIII",
+    "conference": "NACC",
+    "color": "#000000",
+    "logo": "/logos/diii-2283.png"
+  },
+  {
+    "id": "diii-2757",
+    "name": "Berry College",
+    "mascot": "Vikings",
+    "division": "DIII",
+    "conference": "Southern Athletic",
+    "color": "#00205b",
+    "logo": "/logos/diii-2757.png"
+  },
+  {
+    "id": "diii-2062",
+    "name": "Bethany (WV)",
+    "mascot": "Bison",
+    "division": "DIII",
+    "conference": "Presidents'",
+    "color": "#000000",
+    "logo": "/logos/diii-2062.png"
+  },
+  {
+    "id": "diii-2802",
+    "name": "Bethel (MN)",
+    "mascot": "Royals",
+    "division": "DIII",
+    "conference": "Minnesota",
+    "color": "#002d62",
+    "logo": "/logos/diii-2802.png"
+  },
+  {
+    "id": "diii-2074",
+    "name": "Bluffton",
+    "mascot": "Beavers",
+    "division": "DIII",
+    "conference": "Heartland",
+    "color": "#46166a",
+    "logo": "/logos/diii-2074.png"
+  },
+  {
+    "id": "diii-340",
+    "name": "Bowdoin",
+    "mascot": "Polar Bears",
+    "division": "DIII",
+    "conference": "NESCAC",
+    "color": "#ffffff",
+    "logo": "/logos/diii-340.png"
+  },
+  {
+    "id": "diii-2079",
+    "name": "Bridgewater (VA)",
+    "mascot": "Eagles",
+    "division": "DIII",
+    "conference": "Old Dominion",
+    "color": "#990022",
+    "logo": "/logos/diii-2079.png"
+  },
+  {
+    "id": "diii-18",
+    "name": "Bridgewater State",
+    "mascot": "Bears",
+    "division": "DIII",
+    "conference": "MSCAC",
+    "color": "#bf2f38",
+    "logo": "/logos/diii-18.png"
+  },
+  {
+    "id": "diii-2781",
+    "name": "Brockport",
+    "mascot": "Golden Eagles",
+    "division": "DIII",
+    "conference": "Empire 8",
+    "color": "#000000",
+    "logo": "/logos/diii-2781.png"
+  },
+  {
+    "id": "diii-63",
+    "name": "Buena Vista",
+    "mascot": "Beavers",
+    "division": "DIII",
+    "conference": "American Rivers",
+    "color": "#feba12",
+    "logo": "/logos/diii-63.png"
+  },
+  {
+    "id": "diii-2085",
+    "name": "Buffalo State",
+    "mascot": "Bengals",
+    "division": "DIII",
+    "conference": "Liberty League",
+    "color": "#000000",
+    "logo": "/logos/diii-2085.png"
+  },
+  {
+    "id": "diii-2094",
+    "name": "Cal Lutheran",
+    "mascot": "Kingsmen",
+    "division": "DIII",
+    "conference": "So. Cal.",
+    "color": "#3b2361",
+    "logo": "/logos/diii-2094.png"
+  },
+  {
+    "id": "diii-129738",
+    "name": "Calvin University",
+    "mascot": "Knights",
+    "division": "DIII",
+    "conference": "Michigan",
+    "color": "#000000"
+  },
+  {
+    "id": "diii-424",
+    "name": "Capital",
+    "mascot": "Comets",
+    "division": "DIII",
+    "conference": "Ohio",
+    "color": "#000000",
+    "logo": "/logos/diii-424.png"
+  },
+  {
+    "id": "diii-2101",
+    "name": "Carleton College",
+    "mascot": "Knights",
+    "division": "DIII",
+    "conference": "Minnesota",
+    "color": "#173a79",
+    "logo": "/logos/diii-2101.png"
+  },
+  {
+    "id": "diii-2102",
+    "name": "Carnegie Mellon",
+    "mascot": "Tartans",
+    "division": "DIII",
+    "conference": "Centennial",
+    "color": "#000000",
+    "logo": "/logos/diii-2102.png"
+  },
+  {
+    "id": "diii-32",
+    "name": "Carroll (WI)",
+    "mascot": "Pioneers",
+    "division": "DIII",
+    "conference": "CCIW",
+    "color": "#000000",
+    "logo": "/logos/diii-32.png"
+  },
+  {
+    "id": "diii-2106",
+    "name": "Carthage",
+    "mascot": "Firebirds",
+    "division": "DIII",
+    "conference": "CCIW",
+    "color": "#000000",
+    "logo": "/logos/diii-2106.png"
+  },
+  {
+    "id": "diii-2963",
+    "name": "Case Western Reserve",
+    "mascot": "Spartans",
+    "division": "DIII",
+    "conference": "Presidents'",
+    "color": "#000000",
+    "logo": "/logos/diii-2963.png"
+  },
+  {
+    "id": "diii-293",
+    "name": "Castleton",
+    "mascot": "Spartans",
+    "division": "DIII",
+    "conference": "New Jersey",
+    "color": "#000000",
+    "logo": "/logos/diii-293.png"
+  },
+  {
+    "id": "diii-2108",
+    "name": "Catholic",
+    "mascot": "Cardinals",
+    "division": "DIII",
+    "conference": "Landmark Conference",
+    "color": "#000000",
+    "logo": "/logos/diii-2108.png"
+  },
+  {
+    "id": "diii-101442",
+    "name": "Centenary",
+    "mascot": "Gentlemen",
+    "division": "DIII",
+    "conference": "Southern Collegiate Athletic",
+    "color": "#000000",
+    "logo": "/logos/diii-101442.png"
+  },
+  {
+    "id": "diii-2964",
+    "name": "Central College",
+    "mascot": "Dutch",
+    "division": "DIII",
+    "conference": "American Rivers",
+    "color": "#ea0029",
+    "logo": "/logos/diii-2964.png"
+  },
+  {
+    "id": "diii-2121",
+    "name": "Centre College",
+    "mascot": "Colonels",
+    "division": "DIII",
+    "conference": "Southern Athletic",
+    "color": "#000000",
+    "logo": "/logos/diii-2121.png"
+  },
+  {
+    "id": "diii-411",
+    "name": "Chapman",
+    "mascot": "Panthers",
+    "division": "DIII",
+    "conference": "So. Cal.",
+    "color": "#ab1d38",
+    "logo": "/logos/diii-411.png"
+  },
+  {
+    "id": "diii-80",
+    "name": "Chicago",
+    "mascot": "Maroons",
+    "division": "DIII",
+    "conference": "Midwest",
+    "color": "#000000",
+    "logo": "/logos/diii-80.png"
+  },
+  {
+    "id": "diii-3112",
+    "name": "Christopher Newport",
+    "mascot": "Captains",
+    "division": "DIII",
+    "conference": "New Jersey",
+    "color": "#000000",
+    "logo": "/logos/diii-3112.png"
+  },
+  {
+    "id": "diii-17",
+    "name": "Claremont Mudd Scripps",
+    "mascot": "Stags",
+    "division": "DIII",
+    "conference": "So. Cal.",
+    "color": "#981a31",
+    "logo": "/logos/diii-17.png"
+  },
+  {
+    "id": "diii-2557",
+    "name": "Coast Guard",
+    "mascot": "Bears",
+    "division": "DIII",
+    "conference": "NEWMAC",
+    "color": "#000000",
+    "logo": "/logos/diii-2557.png"
+  },
+  {
+    "id": "diii-2141",
+    "name": "Coe College",
+    "mascot": "Kohawks",
+    "division": "DIII",
+    "conference": "American Rivers",
+    "color": "#881922",
+    "logo": "/logos/diii-2141.png"
+  },
+  {
+    "id": "diii-33",
+    "name": "Colby College",
+    "mascot": "White Mules",
+    "division": "DIII",
+    "conference": "NESCAC",
+    "color": "#012778",
+    "logo": "/logos/diii-33.png"
+  },
+  {
+    "id": "diii-2151",
+    "name": "Concordia-Chicago",
+    "mascot": "Cougars",
+    "division": "DIII",
+    "conference": "NACC",
+    "color": "#572a31",
+    "logo": "/logos/diii-2151.png"
+  },
+  {
+    "id": "diii-2152",
+    "name": "Concordia-Moorhead",
+    "mascot": "Cobbers",
+    "division": "DIII",
+    "conference": "Minnesota",
+    "color": "#701d45",
+    "logo": "/logos/diii-2152.png"
+  },
+  {
+    "id": "diii-409",
+    "name": "Concordia-Wisconsin",
+    "mascot": "Falcons",
+    "division": "DIII",
+    "conference": "NACC",
+    "color": "#245699",
+    "logo": "/logos/diii-409.png"
+  },
+  {
+    "id": "diii-2155",
+    "name": "Cornell College (IA)",
+    "mascot": "Rams",
+    "division": "DIII",
+    "conference": "Midwest",
+    "color": "#000000",
+    "logo": "/logos/diii-2155.png"
+  },
+  {
+    "id": "diii-2782",
+    "name": "Cortland",
+    "mascot": "Red Dragons",
+    "division": "DIII",
+    "conference": "Empire 8",
+    "color": "#000000",
+    "logo": "/logos/diii-2782.png"
+  },
+  {
+    "id": "diii-509",
+    "name": "Crown College",
+    "mascot": "Polars",
+    "division": "DIII",
+    "conference": "Upper Midwest",
+    "color": "#5c2f92",
+    "logo": "/logos/diii-509.png"
+  },
+  {
+    "id": "diii-40",
+    "name": "Curry College",
+    "mascot": "Colonels",
+    "division": "DIII",
+    "conference": "Commonwealth Coast",
+    "color": "#65448b",
+    "logo": "/logos/diii-40.png"
+  },
+  {
+    "id": "diii-2808",
+    "name": "Delaware Valley",
+    "mascot": "Aggies",
+    "division": "DIII",
+    "conference": "Mid Atlantic",
+    "color": "#004c23",
+    "logo": "/logos/diii-2808.png"
+  },
+  {
+    "id": "diii-2171",
+    "name": "Denison",
+    "mascot": "Big Red",
+    "division": "DIII",
+    "conference": "North Coast",
+    "color": "#000000",
+    "logo": "/logos/diii-2171.png"
+  },
+  {
+    "id": "diii-83",
+    "name": "DePauw",
+    "mascot": "Tigers",
+    "division": "DIII",
+    "conference": "North Coast",
+    "color": "#000000",
+    "logo": "/logos/diii-83.png"
+  },
+  {
+    "id": "diii-2175",
+    "name": "Dickinson (PA)",
+    "mascot": "Red Devils",
+    "division": "DIII",
+    "conference": "Centennial",
+    "color": "#ed192d",
+    "logo": "/logos/diii-2175.png"
+  },
+  {
+    "id": "diii-49",
+    "name": "Dubuque",
+    "mascot": "Spartans",
+    "division": "DIII",
+    "conference": "American Rivers",
+    "color": "#000000",
+    "logo": "/logos/diii-49.png"
+  },
+  {
+    "id": "diii-2194",
+    "name": "East Texas Baptist",
+    "mascot": "Tigers",
+    "division": "DIII",
+    "conference": "American Southwest",
+    "color": "#002b44",
+    "logo": "/logos/diii-2194.png"
+  },
+  {
+    "id": "diii-127954",
+    "name": "Eastern University",
+    "mascot": "Eagles",
+    "division": "DIII",
+    "conference": "Mid Atlantic",
+    "color": "#64748b",
+    "logo": "/logos/diii-127954.png"
+  },
+  {
+    "id": "diii-72",
+    "name": "Elmhurst",
+    "mascot": "Bluejays",
+    "division": "DIII",
+    "conference": "CCIW",
+    "color": "#000000",
+    "logo": "/logos/diii-72.png"
+  },
+  {
+    "id": "diii-452",
+    "name": "Endicott College",
+    "mascot": "Gulls",
+    "division": "DIII",
+    "conference": "Commonwealth Coast",
+    "color": "#000000",
+    "logo": "/logos/diii-452.png"
+  },
+  {
+    "id": "diii-101",
+    "name": "Eureka College",
+    "mascot": "Red Devils",
+    "division": "DIII",
+    "conference": "NACC",
+    "color": "#960a2c",
+    "logo": "/logos/diii-101.png"
+  },
+  {
+    "id": "diii-114",
+    "name": "Fitchburg State",
+    "mascot": "Falcons",
+    "division": "DIII",
+    "conference": "MSCAC",
+    "color": "#024d36",
+    "logo": "/logos/diii-114.png"
+  },
+  {
+    "id": "diii-2967",
+    "name": "Framingham State",
+    "mascot": "Rams",
+    "division": "DIII",
+    "conference": "MSCAC",
+    "color": "#000000",
+    "logo": "/logos/diii-2967.png"
+  },
+  {
+    "id": "diii-2233",
+    "name": "Franklin",
+    "mascot": "Grizzlies",
+    "division": "DIII",
+    "conference": "Heartland",
+    "color": "#1b295b",
+    "logo": "/logos/diii-2233.png"
+  },
+  {
+    "id": "diii-2234",
+    "name": "Franklin & Marshall",
+    "mascot": "Diplomats",
+    "division": "DIII",
+    "conference": "Centennial",
+    "color": "#25377d",
+    "logo": "/logos/diii-2234.png"
+  },
+  {
+    "id": "diii-417",
+    "name": "Gallaudet",
+    "mascot": "Bison",
+    "division": "DIII",
+    "conference": "Southern Collegiate",
+    "color": "#000000",
+    "logo": "/logos/diii-417.png"
+  },
+  {
+    "id": "diii-2242",
+    "name": "Geneva",
+    "mascot": "Golden Tornadoes",
+    "division": "DIII",
+    "conference": "Presidents'",
+    "color": "#000000",
+    "logo": "/logos/diii-2242.png"
+  },
+  {
+    "id": "diii-415",
+    "name": "George Fox",
+    "mascot": "Bruins",
+    "division": "DIII",
+    "conference": "Northwest",
+    "color": "#002d62",
+    "logo": "/logos/diii-415.png"
+  },
+  {
+    "id": "diii-2248",
+    "name": "Gettysburg",
+    "mascot": "Bullets",
+    "division": "DIII",
+    "conference": "Centennial",
+    "color": "#000000"
+  },
+  {
+    "id": "diii-2256",
+    "name": "Greensboro College",
+    "mascot": "Pride",
+    "division": "DIII",
+    "conference": "USA South",
+    "color": "#000000",
+    "logo": "/logos/diii-2256.png"
+  },
+  {
+    "id": "diii-2257",
+    "name": "Greenville",
+    "mascot": "Panthers",
+    "division": "DIII",
+    "conference": "Upper Midwest",
+    "color": "#f36917",
+    "logo": "/logos/diii-2257.png"
+  },
+  {
+    "id": "diii-65",
+    "name": "Grinnell",
+    "mascot": "Pioneers",
+    "division": "DIII",
+    "conference": "Midwest",
+    "color": "#000000",
+    "logo": "/logos/diii-65.png"
+  },
+  {
+    "id": "diii-146",
+    "name": "Grove City College",
+    "mascot": "Wolverines",
+    "division": "DIII",
+    "conference": "Presidents'",
+    "color": "#000000",
+    "logo": "/logos/diii-146.png"
+  },
+  {
+    "id": "diii-2258",
+    "name": "Guilford",
+    "mascot": "Quakers",
+    "division": "DIII",
+    "conference": "Old Dominion",
+    "color": "#910028",
+    "logo": "/logos/diii-2258.png"
+  },
+  {
+    "id": "diii-2968",
+    "name": "Gustavus Adolphus",
+    "mascot": "Golden Gusties",
+    "division": "DIII",
+    "conference": "Minnesota",
+    "color": "#000000",
+    "logo": "/logos/diii-2968.png"
+  },
+  {
+    "id": "diii-348",
+    "name": "Hamilton",
+    "mascot": "Continentals",
+    "division": "DIII",
+    "conference": "NESCAC",
+    "color": "#062f87",
+    "logo": "/logos/diii-348.png"
+  },
+  {
+    "id": "diii-162",
+    "name": "Hamline",
+    "mascot": "Pipers",
+    "division": "DIII",
+    "conference": "Minnesota",
+    "color": "#98012e",
+    "logo": "/logos/diii-162.png"
+  },
+  {
+    "id": "diii-297",
+    "name": "Hampden-Sydney",
+    "mascot": "Tigers",
+    "division": "DIII",
+    "conference": "Old Dominion",
+    "color": "#900028",
+    "logo": "/logos/diii-297.png"
+  },
+  {
+    "id": "diii-2262",
+    "name": "Hanover",
+    "mascot": "Panthers",
+    "division": "DIII",
+    "conference": "Heartland",
+    "color": "#0b486d",
+    "logo": "/logos/diii-2262.png"
+  },
+  {
+    "id": "diii-2810",
+    "name": "Hardin-Simmons",
+    "mascot": "Cowboys",
+    "division": "DIII",
+    "conference": "American Southwest",
+    "color": "#5b2d83",
+    "logo": "/logos/diii-2810.png"
+  },
+  {
+    "id": "diii-173",
+    "name": "Hartwick",
+    "mascot": "Hawks",
+    "division": "DIII",
+    "conference": "Empire 8",
+    "color": "#000000",
+    "logo": "/logos/diii-173.png"
+  },
+  {
+    "id": "diii-191",
+    "name": "Heidelberg",
+    "mascot": "Student Princes",
+    "division": "DIII",
+    "conference": "Ohio",
+    "color": "#000000",
+    "logo": "/logos/diii-191.png"
+  },
+  {
+    "id": "diii-418",
+    "name": "Hendrix College",
+    "mascot": "Warriors",
+    "division": "DIII",
+    "conference": "Southern Collegiate",
+    "color": "#64748b",
+    "logo": "/logos/diii-418.png"
+  },
+  {
+    "id": "diii-125974",
+    "name": "Hilbert College",
+    "mascot": "Hawks",
+    "division": "DIII",
+    "conference": "Liberty League",
+    "color": "#64748b",
+    "logo": "/logos/diii-125974.png"
+  },
+  {
+    "id": "diii-2274",
+    "name": "Hiram College",
+    "mascot": "Terriers",
+    "division": "DIII",
+    "conference": "Presidents'",
+    "color": "#000000",
+    "logo": "/logos/diii-2274.png"
+  },
+  {
+    "id": "diii-174",
+    "name": "Hobart",
+    "mascot": "Statesmen",
+    "division": "DIII",
+    "conference": "Liberty League",
+    "color": "#000000",
+    "logo": "/logos/diii-174.png"
+  },
+  {
+    "id": "diii-2812",
+    "name": "Hope",
+    "mascot": "Flying Dutchmen",
+    "division": "DIII",
+    "conference": "Michigan",
+    "color": "#000000",
+    "logo": "/logos/diii-2812.png"
+  },
+  {
+    "id": "diii-2758",
+    "name": "Howard Payne",
+    "mascot": "Yellow Jackets",
+    "division": "DIII",
+    "conference": "American Southwest",
+    "color": "#02215b",
+    "logo": "/logos/diii-2758.png"
+  },
+  {
+    "id": "diii-2938",
+    "name": "Huntingdon College (AL)",
+    "mascot": "Hawks",
+    "division": "DIII",
+    "conference": "USA South",
+    "color": "#000000",
+    "logo": "/logos/diii-2938.png"
+  },
+  {
+    "id": "diii-2280",
+    "name": "Husson",
+    "mascot": "Eagles",
+    "division": "DIII",
+    "conference": "Commonwealth Coast",
+    "color": "#004b44",
+    "logo": "/logos/diii-2280.png"
+  },
+  {
+    "id": "diii-2286",
+    "name": "Illinois College",
+    "mascot": "Blueboys",
+    "division": "DIII",
+    "conference": "Midwest",
+    "color": "#000000",
+    "logo": "/logos/diii-2286.png"
+  },
+  {
+    "id": "diii-306",
+    "name": "Illinois Wesleyan",
+    "mascot": "Titans",
+    "division": "DIII",
+    "conference": "CCIW",
+    "color": "#000000",
+    "logo": "/logos/diii-306.png"
+  },
+  {
+    "id": "diii-175",
+    "name": "Ithaca",
+    "mascot": "Bombers",
+    "division": "DIII",
+    "conference": "Liberty League",
+    "color": "#000000",
+    "logo": "/logos/diii-175.png"
+  },
+  {
+    "id": "diii-2302",
+    "name": "John Carroll",
+    "mascot": "Blue Streaks",
+    "division": "DIII",
+    "conference": "North Coast",
+    "color": "#000000",
+    "logo": "/logos/diii-2302.png"
+  },
+  {
+    "id": "diii-118",
+    "name": "Johns Hopkins",
+    "mascot": "Blue Jays",
+    "division": "DIII",
+    "conference": "Centennial",
+    "color": "#000000",
+    "logo": "/logos/diii-118.png"
+  },
+  {
+    "id": "diii-246",
+    "name": "Juniata",
+    "mascot": "Eagles",
+    "division": "DIII",
+    "conference": "Landmark Conference",
+    "color": "#031832",
+    "logo": "/logos/diii-246.png"
+  },
+  {
+    "id": "diii-126",
+    "name": "Kalamazoo",
+    "mascot": "Hornets",
+    "division": "DIII",
+    "conference": "Michigan",
+    "color": "#000000",
+    "logo": "/logos/diii-126.png"
+  },
+  {
+    "id": "diii-2871",
+    "name": "Kean",
+    "mascot": "Cougars",
+    "division": "DIII",
+    "conference": "New Jersey",
+    "color": "#092f56",
+    "logo": "/logos/diii-2871.png"
+  },
+  {
+    "id": "diii-352",
+    "name": "Kenyon",
+    "mascot": "Owls",
+    "division": "DIII",
+    "conference": "North Coast",
+    "color": "#000000",
+    "logo": "/logos/diii-352.png"
+  },
+  {
+    "id": "diii-122774",
+    "name": "Keystone",
+    "mascot": "Giants",
+    "division": "DIII",
+    "conference": "Independent DIII",
+    "color": "#64748b",
+    "logo": "/logos/diii-122774.png"
+  },
+  {
+    "id": "diii-247",
+    "name": "King's College (PA)",
+    "mascot": "Monarchs",
+    "division": "DIII",
+    "conference": "Mid Atlantic",
+    "color": "#c41230",
+    "logo": "/logos/diii-247.png"
+  },
+  {
+    "id": "diii-255",
+    "name": "Knox College",
+    "mascot": "Prairie Fire",
+    "division": "DIII",
+    "conference": "Midwest",
+    "color": "#000000",
+    "logo": "/logos/diii-255.png"
+  },
+  {
+    "id": "diii-2318",
+    "name": "La Verne",
+    "mascot": "Leopards",
+    "division": "DIII",
+    "conference": "So. Cal.",
+    "color": "#004812",
+    "logo": "/logos/diii-2318.png"
+  },
+  {
+    "id": "diii-548",
+    "name": "LaGrange College",
+    "mascot": "Panthers",
+    "division": "DIII",
+    "conference": "USA South",
+    "color": "#000000",
+    "logo": "/logos/diii-548.png"
+  },
+  {
+    "id": "diii-262",
+    "name": "Lake Forest",
+    "mascot": "Foresters",
+    "division": "DIII",
+    "conference": "Midwest",
+    "color": "#000000",
+    "logo": "/logos/diii-262.png"
+  },
+  {
+    "id": "diii-6353",
+    "name": "Lakeland University",
+    "mascot": "Muskies",
+    "division": "DIII",
+    "conference": "NACC",
+    "color": "#64748b",
+    "logo": "/logos/diii-6353.png"
+  },
+  {
+    "id": "diii-268",
+    "name": "Lawrence University",
+    "mascot": "Vikings",
+    "division": "DIII",
+    "conference": "Midwest",
+    "color": "#000000",
+    "logo": "/logos/diii-268.png"
+  },
+  {
+    "id": "diii-388",
+    "name": "Lebanon Valley",
+    "mascot": "Flying Dutchmen",
+    "division": "DIII",
+    "conference": "Mid Atlantic",
+    "color": "#003767",
+    "logo": "/logos/diii-388.png"
+  },
+  {
+    "id": "diii-2333",
+    "name": "Lewis & Clark",
+    "mascot": "River Otters",
+    "division": "DIII",
+    "conference": "Northwest",
+    "color": "#f37737",
+    "logo": "/logos/diii-2333.png"
+  },
+  {
+    "id": "diii-203",
+    "name": "Linfield",
+    "mascot": "Wildcats",
+    "division": "DIII",
+    "conference": "Northwest",
+    "color": "#46256a",
+    "logo": "/logos/diii-203.png"
+  },
+  {
+    "id": "diii-263",
+    "name": "Loras College",
+    "mascot": "Duhawks",
+    "division": "DIII",
+    "conference": "American Rivers",
+    "color": "#452d7d",
+    "logo": "/logos/diii-263.png"
+  },
+  {
+    "id": "diii-67",
+    "name": "Luther",
+    "mascot": "Norse",
+    "division": "DIII",
+    "conference": "Midwest",
+    "color": "#015a9c",
+    "logo": "/logos/diii-67.png"
+  },
+  {
+    "id": "diii-2354",
+    "name": "Lycoming",
+    "mascot": "Warriors",
+    "division": "DIII",
+    "conference": "Landmark Conference",
+    "color": "#15283f",
+    "logo": "/logos/diii-2354.png"
+  },
+  {
+    "id": "diii-101161",
+    "name": "Lyon College",
+    "mascot": "Scots",
+    "division": "DIII",
+    "conference": "Southern Collegiate Athletic",
+    "color": "#000000"
+  },
+  {
+    "id": "diii-2359",
+    "name": "Macalester",
+    "mascot": "Scots",
+    "division": "DIII",
+    "conference": "Minnesota",
+    "color": "#000000",
+    "logo": "/logos/diii-2359.png"
+  },
+  {
+    "id": "diii-274",
+    "name": "Maine Maritime",
+    "mascot": "Mariners",
+    "division": "DIII",
+    "conference": "Conference of New England",
+    "color": "#000000"
+  },
+  {
+    "id": "diii-2362",
+    "name": "Manchester",
+    "mascot": "Spartans",
+    "division": "DIII",
+    "conference": "Heartland",
+    "color": "#ddac14",
+    "logo": "/logos/diii-2362.png"
+  },
+  {
+    "id": "diii-317",
+    "name": "Marietta",
+    "mascot": "Pioneers",
+    "division": "DIII",
+    "conference": "Ohio",
+    "color": "#000000",
+    "logo": "/logos/diii-317.png"
+  },
+  {
+    "id": "diii-446",
+    "name": "Martin Luther",
+    "mascot": "Knights",
+    "division": "DIII",
+    "conference": "Upper Midwest",
+    "color": "#000000",
+    "logo": "/logos/diii-446.png"
+  },
+  {
+    "id": "diii-2371",
+    "name": "Mary Hardin-Baylor",
+    "mascot": "Crusaders",
+    "division": "DIII",
+    "conference": "American Southwest",
+    "color": "#492f92",
+    "logo": "/logos/diii-2371.png"
+  },
+  {
+    "id": "diii-2373",
+    "name": "Maryville College (TN)",
+    "mascot": "Scots",
+    "division": "DIII",
+    "conference": "Southern Athletic",
+    "color": "#000000",
+    "logo": "/logos/diii-2373.png"
+  },
+  {
+    "id": "diii-110",
+    "name": "Mass Maritime",
+    "mascot": "Buccaneers",
+    "division": "DIII",
+    "conference": "MSCAC",
+    "color": "#212c62",
+    "logo": "/logos/diii-110.png"
+  },
+  {
+    "id": "diii-2700",
+    "name": "McDaniel College",
+    "mascot": "Green Terror",
+    "division": "DIII",
+    "conference": "Centennial",
+    "color": "#00674d",
+    "logo": "/logos/diii-2700.png"
+  },
+  {
+    "id": "diii-241",
+    "name": "McMurry",
+    "mascot": "War Hawks",
+    "division": "DIII",
+    "conference": "American Southwest",
+    "color": "#98002e",
+    "logo": "/logos/diii-241.png"
+  },
+  {
+    "id": "diii-2383",
+    "name": "Merchant Marine",
+    "mascot": "Mariners",
+    "division": "DIII",
+    "conference": "NEWMAC",
+    "color": "#000000",
+    "logo": "/logos/diii-2383.png"
+  },
+  {
+    "id": "diii-291",
+    "name": "Methodist",
+    "mascot": "Monarchs",
+    "division": "DIII",
+    "conference": "USA South",
+    "color": "#000000",
+    "logo": "/logos/diii-291.png"
+  },
+  {
+    "id": "diii-2394",
+    "name": "Middlebury",
+    "mascot": "Panthers",
+    "division": "DIII",
+    "conference": "NESCAC",
+    "color": "#365a8a",
+    "logo": "/logos/diii-2394.png"
+  },
+  {
+    "id": "diii-74",
+    "name": "Millikin",
+    "mascot": "Big Blue",
+    "division": "DIII",
+    "conference": "CCIW",
+    "color": "#000000",
+    "logo": "/logos/diii-74.png"
+  },
+  {
+    "id": "diii-2398",
+    "name": "Millsaps",
+    "mascot": "Majors",
+    "division": "DIII",
+    "conference": "Southern Athletic",
+    "color": "#000000",
+    "logo": "/logos/diii-2398.png"
+  },
+  {
+    "id": "diii-2399",
+    "name": "Minnesota Morris",
+    "mascot": "Cougars",
+    "division": "DIII",
+    "conference": "Upper Midwest",
+    "color": "#8d191b",
+    "logo": "/logos/diii-2399.png"
+  },
+  {
+    "id": "diii-109",
+    "name": "MIT",
+    "mascot": "Engineers",
+    "division": "DIII",
+    "conference": "NEWMAC",
+    "color": "#000000",
+    "logo": "/logos/diii-109.png"
+  },
+  {
+    "id": "diii-2919",
+    "name": "Monmouth (IL)",
+    "mascot": "Fighting Scots",
+    "division": "DIII",
+    "conference": "Midwest",
+    "color": "#000000",
+    "logo": "/logos/diii-2919.png"
+  },
+  {
+    "id": "diii-2818",
+    "name": "Montclair State",
+    "mascot": "Red Hawks",
+    "division": "DIII",
+    "conference": "New Jersey",
+    "color": "#c20f2f",
+    "logo": "/logos/diii-2818.png"
+  },
+  {
+    "id": "diii-323",
+    "name": "Moravian",
+    "mascot": "Greyhounds",
+    "division": "DIII",
+    "conference": "Landmark Conference",
+    "color": "#1f3361",
+    "logo": "/logos/diii-323.png"
+  },
+  {
+    "id": "diii-2419",
+    "name": "Mount St. Joseph",
+    "mascot": "Lions",
+    "division": "DIII",
+    "conference": "Heartland",
+    "color": "#002d5d",
+    "logo": "/logos/diii-2419.png"
+  },
+  {
+    "id": "diii-426",
+    "name": "Mount Union",
+    "mascot": "Purple Raiders",
+    "division": "DIII",
+    "conference": "Ohio",
+    "color": "#000000",
+    "logo": "/logos/diii-426.png"
+  },
+  {
+    "id": "diii-2422",
+    "name": "Muhlenberg",
+    "mascot": "Mules",
+    "division": "DIII",
+    "conference": "Centennial",
+    "color": "#000000",
+    "logo": "/logos/diii-2422.png"
+  },
+  {
+    "id": "diii-332",
+    "name": "Muskingum",
+    "mascot": "Fighting Muskies",
+    "division": "DIII",
+    "conference": "Ohio",
+    "color": "#000000",
+    "logo": "/logos/diii-332.png"
+  },
+  {
+    "id": "diii-6845",
+    "name": "Nebraska Wesleyan",
+    "mascot": "Prairie Wolves",
+    "division": "DIII",
+    "conference": "American Rivers",
+    "color": "#64748b",
+    "logo": "/logos/diii-6845.png"
+  },
+  {
+    "id": "diii-131108",
+    "name": "New England College",
+    "mascot": "Pilgrims",
+    "division": "DIII",
+    "conference": "Conference of New England",
+    "color": "#64748b"
+  },
+  {
+    "id": "diii-2884",
+    "name": "Nichols College",
+    "mascot": "Bison",
+    "division": "DIII",
+    "conference": "Commonwealth Coast",
+    "color": "#007b5f",
+    "logo": "/logos/diii-2884.png"
+  },
+  {
+    "id": "diii-286",
+    "name": "North Carolina Wesleyan",
+    "mascot": "Battling Bishops",
+    "division": "DIII",
+    "conference": "USA South",
+    "color": "#000000",
+    "logo": "/logos/diii-286.png"
+  },
+  {
+    "id": "diii-3071",
+    "name": "North Central College",
+    "mascot": "Cardinals",
+    "division": "DIII",
+    "conference": "CCIW",
+    "color": "#000000",
+    "logo": "/logos/diii-3071.png"
+  },
+  {
+    "id": "diii-75",
+    "name": "North Park",
+    "mascot": "Vikings",
+    "division": "DIII",
+    "conference": "CCIW",
+    "color": "#000000",
+    "logo": "/logos/diii-75.png"
+  },
+  {
+    "id": "diii-583",
+    "name": "Northwestern (MN)",
+    "mascot": "Eagles",
+    "division": "DIII",
+    "conference": "Upper Midwest",
+    "color": "#000000",
+    "logo": "/logos/diii-583.png"
+  },
+  {
+    "id": "diii-2467",
+    "name": "Norwich",
+    "mascot": "Cadets",
+    "division": "DIII",
+    "conference": "NEWMAC",
+    "color": "#000000",
+    "logo": "/logos/diii-2467.png"
+  },
+  {
+    "id": "diii-391",
+    "name": "Oberlin",
+    "mascot": "Yeomen",
+    "division": "DIII",
+    "conference": "North Coast",
+    "color": "#000000",
+    "logo": "/logos/diii-391.png"
+  },
+  {
+    "id": "diii-427",
+    "name": "Ohio Northern",
+    "mascot": "Polar Bears",
+    "division": "DIII",
+    "conference": "Ohio",
+    "color": "#000000",
+    "logo": "/logos/diii-427.png"
+  },
+  {
+    "id": "diii-2980",
+    "name": "Ohio Wesleyan",
+    "mascot": "Battling Bishops",
+    "division": "DIII",
+    "conference": "North Coast",
+    "color": "#000000",
+    "logo": "/logos/diii-2980.png"
+  },
+  {
+    "id": "diii-354",
+    "name": "Olivet College",
+    "mascot": "Comets",
+    "division": "DIII",
+    "conference": "Michigan",
+    "color": "#000000",
+    "logo": "/logos/diii-354.png"
+  },
+  {
+    "id": "diii-359",
+    "name": "Otterbein",
+    "mascot": "Cardinals",
+    "division": "DIII",
+    "conference": "Ohio",
+    "color": "#000000",
+    "logo": "/logos/diii-359.png"
+  },
+  {
+    "id": "diii-2486",
+    "name": "Pacific Lutheran",
+    "mascot": "Lutes",
+    "division": "DIII",
+    "conference": "Northwest",
+    "color": "#ffc423",
+    "logo": "/logos/diii-2486.png"
+  },
+  {
+    "id": "diii-2972",
+    "name": "Plymouth State",
+    "mascot": "Panthers",
+    "division": "DIII",
+    "conference": "MSCAC",
+    "color": "#054e39",
+    "logo": "/logos/diii-2972.png"
+  },
+  {
+    "id": "diii-2923",
+    "name": "Pomona Pitzer",
+    "mascot": "Sagehens",
+    "division": "DIII",
+    "conference": "So. Cal.",
+    "color": "#00549a",
+    "logo": "/logos/diii-2923.png"
+  },
+  {
+    "id": "diii-2508",
+    "name": "Puget Sound",
+    "mascot": "Loggers",
+    "division": "DIII",
+    "conference": "Northwest",
+    "color": "#680001",
+    "logo": "/logos/diii-2508.png"
+  },
+  {
+    "id": "diii-2516",
+    "name": "Randolph-Macon",
+    "mascot": "Yellow Jackets",
+    "division": "DIII",
+    "conference": "Old Dominion",
+    "color": "#fcdf12",
+    "logo": "/logos/diii-2516.png"
+  },
+  {
+    "id": "diii-29",
+    "name": "Redlands",
+    "mascot": "Bulldogs",
+    "division": "DIII",
+    "conference": "So. Cal.",
+    "color": "#751708",
+    "logo": "/logos/diii-29.png"
+  },
+  {
+    "id": "diii-2528",
+    "name": "Rensselaer",
+    "mascot": "Engineers",
+    "division": "DIII",
+    "conference": "Liberty League",
+    "color": "#000000",
+    "logo": "/logos/diii-2528.png"
+  },
+  {
+    "id": "diii-2519",
+    "name": "Rhodes College",
+    "mascot": "Lynx",
+    "division": "DIII",
+    "conference": "Southern Athletic",
+    "color": "#000000",
+    "logo": "/logos/diii-2519.png"
+  },
+  {
+    "id": "diii-2891",
+    "name": "Ripon",
+    "mascot": "Red Hawks",
+    "division": "DIII",
+    "conference": "Midwest",
+    "color": "#000000",
+    "logo": "/logos/diii-2891.png"
+  },
+  {
+    "id": "diii-131109",
+    "name": "Roanoke College",
+    "mascot": "Maroons",
+    "division": "DIII",
+    "conference": "Old Dominion",
+    "color": "#64748b"
+  },
+  {
+    "id": "diii-2524",
+    "name": "Rockford",
+    "mascot": "Regents",
+    "division": "DIII",
+    "conference": "NACC",
+    "color": "#5a3f99",
+    "logo": "/logos/diii-2524.png"
+  },
+  {
+    "id": "diii-86",
+    "name": "Rose-Hulman",
+    "mascot": "Fightin' Engineers",
+    "division": "DIII",
+    "conference": "Heartland",
+    "color": "#800000",
+    "logo": "/logos/diii-86.png"
+  },
+  {
+    "id": "diii-2827",
+    "name": "Rowan",
+    "mascot": "Profs",
+    "division": "DIII",
+    "conference": "New Jersey",
+    "color": "#571b04",
+    "logo": "/logos/diii-2827.png"
+  },
+  {
+    "id": "diii-2598",
+    "name": "Saint Francis",
+    "mascot": "Red Flash",
+    "division": "DIII",
+    "conference": "Presidents'",
+    "color": "#a20012",
+    "logo": "/logos/diii-2598.png"
+  },
+  {
+    "id": "diii-2600",
+    "name": "Saint John's (MN)",
+    "mascot": "Johnnies",
+    "division": "DIII",
+    "conference": "Minnesota",
+    "color": "#ce153e",
+    "logo": "/logos/diii-2600.png"
+  },
+  {
+    "id": "diii-2614",
+    "name": "Saint Vincent",
+    "mascot": "Bearcats",
+    "division": "DIII",
+    "conference": "Presidents'",
+    "color": "#000000",
+    "logo": "/logos/diii-2614.png"
+  },
+  {
+    "id": "diii-2532",
+    "name": "Salisbury University",
+    "mascot": "Sea Gulls",
+    "division": "DIII",
+    "conference": "New Jersey",
+    "color": "#8b0e04",
+    "logo": "/logos/diii-2532.png"
+  },
+  {
+    "id": "diii-2776",
+    "name": "Salve Regina",
+    "mascot": "Seahawks",
+    "division": "DIII",
+    "conference": "NEWMAC",
+    "color": "#000000",
+    "logo": "/logos/diii-2776.png"
+  },
+  {
+    "id": "diii-102549",
+    "name": "Schreiner",
+    "mascot": "Mountaineers",
+    "division": "DIII",
+    "conference": "American Southwest",
+    "color": "#64748b"
+  },
+  {
+    "id": "diii-2553",
+    "name": "Sewanee",
+    "mascot": "Tigers",
+    "division": "DIII",
+    "conference": "Southern Athletic",
+    "color": "#000000",
+    "logo": "/logos/diii-2553.png"
+  },
+  {
+    "id": "diii-2828",
+    "name": "Shenandoah",
+    "mascot": "Hornets",
+    "division": "DIII",
+    "conference": "Old Dominion",
+    "color": "#000000",
+    "logo": "/logos/diii-2828.png"
+  },
+  {
+    "id": "diii-2564",
+    "name": "Simpson College (IA)",
+    "mascot": "Storm",
+    "division": "DIII",
+    "conference": "American Rivers",
+    "color": "#b20838",
+    "logo": "/logos/diii-2564.png"
+  },
+  {
+    "id": "diii-2896",
+    "name": "Southern Virginia",
+    "mascot": "Knights",
+    "division": "DIII",
+    "conference": "USA South",
+    "color": "#000000",
+    "logo": "/logos/diii-2896.png"
+  },
+  {
+    "id": "diii-2588",
+    "name": "Southwestern University",
+    "mascot": "Pirates",
+    "division": "DIII",
+    "conference": "Southern Athletic",
+    "color": "#000000",
+    "logo": "/logos/diii-2588.png"
+  },
+  {
+    "id": "diii-81",
+    "name": "Springfield",
+    "mascot": "Pride",
+    "division": "DIII",
+    "conference": "NEWMAC",
+    "color": "#000000",
+    "logo": "/logos/diii-81.png"
+  },
+  {
+    "id": "diii-374",
+    "name": "St. John Fisher University",
+    "mascot": "Cardinals",
+    "division": "DIII",
+    "conference": "Empire 8",
+    "color": "#000000",
+    "logo": "/logos/diii-374.png"
+  },
+  {
+    "id": "diii-2779",
+    "name": "St. Lawrence",
+    "mascot": "Saints",
+    "division": "DIII",
+    "conference": "Liberty League",
+    "color": "#000000",
+    "logo": "/logos/diii-2779.png"
+  },
+  {
+    "id": "diii-2832",
+    "name": "St. Norbert",
+    "mascot": "Green Knights",
+    "division": "DIII",
+    "conference": "NACC",
+    "color": "#000000",
+    "logo": "/logos/diii-2832.png"
+  },
+  {
+    "id": "diii-133",
+    "name": "St. Olaf",
+    "mascot": "Oles",
+    "division": "DIII",
+    "conference": "Minnesota",
+    "color": "#000000",
+    "logo": "/logos/diii-133.png"
+  },
+  {
+    "id": "diii-375",
+    "name": "St. Scholastica",
+    "mascot": "Saints",
+    "division": "DIII",
+    "conference": "Minnesota",
+    "color": "#000000",
+    "logo": "/logos/diii-375.png"
+  },
+  {
+    "id": "diii-2951",
+    "name": "SUNY Maritime",
+    "mascot": "Privateers",
+    "division": "DIII",
+    "conference": "NEWMAC",
+    "color": "#000000",
+    "logo": "/logos/diii-2951.png"
+  },
+  {
+    "id": "diii-3110",
+    "name": "SUNY Morrisville",
+    "mascot": "Mustangs",
+    "division": "DIII",
+    "conference": "Empire 8",
+    "color": "#000000",
+    "logo": "/logos/diii-3110.png"
+  },
+  {
+    "id": "diii-216",
+    "name": "Susquehanna",
+    "mascot": "River Hawks",
+    "division": "DIII",
+    "conference": "Landmark Conference",
+    "color": "#6b1a31",
+    "logo": "/logos/diii-216.png"
+  },
+  {
+    "id": "diii-2639",
+    "name": "Texas Lutheran",
+    "mascot": "Bulldogs",
+    "division": "DIII",
+    "conference": "Southern Collegiate Athletic",
+    "color": "#fdbe10",
+    "logo": "/logos/diii-2639.png"
+  },
+  {
+    "id": "diii-2442",
+    "name": "The College of New Jersey",
+    "mascot": "Lions",
+    "division": "DIII",
+    "conference": "New Jersey",
+    "color": "#154c7d",
+    "logo": "/logos/diii-2442.png"
+  },
+  {
+    "id": "diii-2644",
+    "name": "Thiel",
+    "mascot": "Tomcats",
+    "division": "DIII",
+    "conference": "Presidents'",
+    "color": "#000000",
+    "logo": "/logos/diii-2644.png"
+  },
+  {
+    "id": "diii-2651",
+    "name": "Trine University",
+    "mascot": "Thunder",
+    "division": "DIII",
+    "conference": "Michigan",
+    "color": "#000000",
+    "logo": "/logos/diii-2651.png"
+  },
+  {
+    "id": "diii-2977",
+    "name": "Trinity (CT)",
+    "mascot": "Bantams",
+    "division": "DIII",
+    "conference": "NESCAC",
+    "color": "#032d58",
+    "logo": "/logos/diii-2977.png"
+  },
+  {
+    "id": "diii-386",
+    "name": "Trinity (TX)",
+    "mascot": "Tigers",
+    "division": "DIII",
+    "conference": "Southern Athletic",
+    "color": "#000000",
+    "logo": "/logos/diii-386.png"
+  },
+  {
+    "id": "diii-112",
+    "name": "Tufts",
+    "mascot": "Jumbos",
+    "division": "DIII",
+    "conference": "NESCAC",
+    "color": "#3e8ede",
+    "logo": "/logos/diii-112.png"
+  },
+  {
+    "id": "diii-379",
+    "name": "UMass Dartmouth",
+    "mascot": "Corsairs",
+    "division": "DIII",
+    "conference": "MSCAC",
+    "color": "#000000",
+    "logo": "/logos/diii-379.png"
+  },
+  {
+    "id": "diii-237",
+    "name": "Union (NY)",
+    "mascot": "Garnet Chargers",
+    "division": "DIII",
+    "conference": "Liberty League",
+    "color": "#762334",
+    "logo": "/logos/diii-237.png"
+  },
+  {
+    "id": "diii-111675",
+    "name": "University of New England",
+    "mascot": "Nor'easters",
+    "division": "DIII",
+    "conference": "Commonwealth Coast",
+    "color": "#64748b",
+    "logo": "/logos/diii-111675.png"
+  },
+  {
+    "id": "diii-184",
+    "name": "University of Rochester (NY)",
+    "mascot": "Yellow Jackets",
+    "division": "DIII",
+    "conference": "Liberty League",
+    "color": "#000000",
+    "logo": "/logos/diii-184.png"
+  },
+  {
+    "id": "diii-2667",
+    "name": "Ursinus",
+    "mascot": "Bears",
+    "division": "DIII",
+    "conference": "Centennial",
+    "color": "#98012e",
+    "logo": "/logos/diii-2667.png"
+  },
+  {
+    "id": "diii-390",
+    "name": "Utica",
+    "mascot": "Pioneers",
+    "division": "DIII",
+    "conference": "Empire 8",
+    "color": "#000000",
+    "logo": "/logos/diii-390.png"
+  },
+  {
+    "id": "diii-89",
+    "name": "Wabash College",
+    "mascot": "Little Giants",
+    "division": "DIII",
+    "conference": "North Coast",
+    "color": "#000000",
+    "logo": "/logos/diii-89.png"
+  },
+  {
+    "id": "diii-2685",
+    "name": "Wartburg College",
+    "mascot": "Knights",
+    "division": "DIII",
+    "conference": "American Rivers",
+    "color": "#f5822b",
+    "logo": "/logos/diii-2685.png"
+  },
+  {
+    "id": "diii-2686",
+    "name": "Washington & Jefferson",
+    "mascot": "Presidents",
+    "division": "DIII",
+    "conference": "Presidents'",
+    "color": "#000000",
+    "logo": "/logos/diii-2686.png"
+  },
+  {
+    "id": "diii-2688",
+    "name": "Washington and Lee",
+    "mascot": "Generals",
+    "division": "DIII",
+    "conference": "Old Dominion",
+    "color": "#000399",
+    "logo": "/logos/diii-2688.png"
+  },
+  {
+    "id": "diii-143",
+    "name": "Washington University-St. Louis",
+    "mascot": "Bears",
+    "division": "DIII",
+    "conference": "North Coast",
+    "color": "#000000",
+    "logo": "/logos/diii-143.png"
+  },
+  {
+    "id": "diii-2845",
+    "name": "Waynesburg",
+    "mascot": "Yellow Jackets",
+    "division": "DIII",
+    "conference": "Presidents'",
+    "color": "#000000",
+    "logo": "/logos/diii-2845.png"
+  },
+  {
+    "id": "diii-336",
+    "name": "Wesleyan University (CT)",
+    "mascot": "Cardinals",
+    "division": "DIII",
+    "conference": "NESCAC",
+    "color": "#d72121",
+    "logo": "/logos/diii-336.png"
+  },
+  {
+    "id": "diii-2843",
+    "name": "Western Connecticut State",
+    "mascot": "Wolves",
+    "division": "DIII",
+    "conference": "Landmark Conference",
+    "color": "#002857",
+    "logo": "/logos/diii-2843.png"
+  },
+  {
+    "id": "diii-2702",
+    "name": "Western New England",
+    "mascot": "Golden Bears",
+    "division": "DIII",
+    "conference": "Commonwealth Coast",
+    "color": "#000000",
+    "logo": "/logos/diii-2702.png"
+  },
+  {
+    "id": "diii-2909",
+    "name": "Westfield State",
+    "mascot": "Owls",
+    "division": "DIII",
+    "conference": "MSCAC",
+    "color": "#1b509e",
+    "logo": "/logos/diii-2909.png"
+  },
+  {
+    "id": "diii-433",
+    "name": "Westminster (MO)",
+    "mascot": "Blue Jays",
+    "division": "DIII",
+    "conference": "Upper Midwest",
+    "color": "#06496f",
+    "logo": "/logos/diii-433.png"
+  },
+  {
+    "id": "diii-2849",
+    "name": "Westminster (PA)",
+    "mascot": "Titans",
+    "division": "DIII",
+    "conference": "Presidents'",
+    "color": "#000000",
+    "logo": "/logos/diii-2849.png"
+  },
+  {
+    "id": "diii-396",
+    "name": "Wheaton",
+    "mascot": "Thunder",
+    "division": "DIII",
+    "conference": "CCIW",
+    "color": "#000000",
+    "logo": "/logos/diii-396.png"
+  },
+  {
+    "id": "diii-2850",
+    "name": "Whittier College",
+    "mascot": "Poets",
+    "division": "DIII",
+    "conference": "So. Cal.",
+    "color": "#4a217b",
+    "logo": "/logos/diii-2850.png"
+  },
+  {
+    "id": "diii-2721",
+    "name": "Whitworth",
+    "mascot": "Pirates",
+    "division": "DIII",
+    "conference": "Northwest",
+    "color": "#930036",
+    "logo": "/logos/diii-2721.png"
+  },
+  {
+    "id": "diii-2725",
+    "name": "Widener",
+    "mascot": "Pride",
+    "division": "DIII",
+    "conference": "Mid Atlantic",
+    "color": "#0056ba",
+    "logo": "/logos/diii-2725.png"
+  },
+  {
+    "id": "diii-398",
+    "name": "Wilkes University",
+    "mascot": "Colonels",
+    "division": "DIII",
+    "conference": "Landmark Conference",
+    "color": "#002856",
+    "logo": "/logos/diii-398.png"
+  },
+  {
+    "id": "diii-2930",
+    "name": "Willamette",
+    "mascot": "Bearcats",
+    "division": "DIII",
+    "conference": "Northwest",
+    "color": "#960a2c",
+    "logo": "/logos/diii-2930.png"
+  },
+  {
+    "id": "diii-2970",
+    "name": "William Paterson",
+    "mascot": "Pioneers",
+    "division": "DIII",
+    "conference": "New Jersey",
+    "color": "#000000",
+    "logo": "/logos/diii-2970.png"
+  },
+  {
+    "id": "diii-2731",
+    "name": "Williams",
+    "mascot": "Ephs",
+    "division": "DIII",
+    "conference": "NESCAC",
+    "color": "#500082",
+    "logo": "/logos/diii-2731.png"
+  },
+  {
+    "id": "diii-2733",
+    "name": "Wilmington (OH)",
+    "mascot": "Fightin' Quakers",
+    "division": "DIII",
+    "conference": "Ohio",
+    "color": "#000000",
+    "logo": "/logos/diii-2733.png"
+  },
+  {
+    "id": "diii-2741",
+    "name": "Wisconsin Lutheran",
+    "mascot": "Warriors",
+    "division": "DIII",
+    "conference": "NACC",
+    "color": "#006241",
+    "logo": "/logos/diii-2741.png"
+  },
+  {
+    "id": "diii-2738",
+    "name": "Wisconsin-Eau Claire",
+    "mascot": "Blugolds",
+    "division": "DIII",
+    "conference": "Wisconsin",
+    "color": "#000000",
+    "logo": "/logos/diii-2738.png"
+  },
+  {
+    "id": "diii-2740",
+    "name": "Wisconsin-Lacrosse",
+    "mascot": "Eagles",
+    "division": "DIII",
+    "conference": "Wisconsin",
+    "color": "#000000",
+    "logo": "/logos/diii-2740.png"
+  },
+  {
+    "id": "diii-271",
+    "name": "Wisconsin-Oshkosh",
+    "mascot": "Titans",
+    "division": "DIII",
+    "conference": "Wisconsin",
+    "color": "#000000",
+    "logo": "/logos/diii-271.png"
+  },
+  {
+    "id": "diii-272",
+    "name": "Wisconsin-Platteville",
+    "mascot": "Pioneers",
+    "division": "DIII",
+    "conference": "Wisconsin",
+    "color": "#000000",
+    "logo": "/logos/diii-272.png"
+  },
+  {
+    "id": "diii-2723",
+    "name": "Wisconsin-River Falls",
+    "mascot": "Falcons",
+    "division": "DIII",
+    "conference": "Wisconsin",
+    "color": "#000000",
+    "logo": "/logos/diii-2723.png"
+  },
+  {
+    "id": "diii-2743",
+    "name": "Wisconsin-Stevens Pt",
+    "mascot": "Pointers",
+    "division": "DIII",
+    "conference": "Wisconsin",
+    "color": "#000000",
+    "logo": "/logos/diii-2743.png"
+  },
+  {
+    "id": "diii-2744",
+    "name": "Wisconsin-Stout",
+    "mascot": "Blue Devils",
+    "division": "DIII",
+    "conference": "Wisconsin",
+    "color": "#000000",
+    "logo": "/logos/diii-2744.png"
+  },
+  {
+    "id": "diii-2745",
+    "name": "Wisconsin-Whitewater",
+    "mascot": "Warhawks",
+    "division": "DIII",
+    "conference": "Wisconsin",
+    "color": "#000000",
+    "logo": "/logos/diii-2745.png"
+  },
+  {
+    "id": "diii-2746",
+    "name": "Wittenberg",
+    "mascot": "Tigers",
+    "division": "DIII",
+    "conference": "North Coast",
+    "color": "#000000",
+    "logo": "/logos/diii-2746.png"
+  },
+  {
+    "id": "diii-2748",
+    "name": "Wooster",
+    "mascot": "Fighting Scots",
+    "division": "DIII",
+    "conference": "North Coast",
+    "color": "#000000",
+    "logo": "/logos/diii-2748.png"
+  },
+  {
+    "id": "diii-402",
+    "name": "Worcester State College",
+    "mascot": "Lancers",
+    "division": "DIII",
+    "conference": "MSCAC",
+    "color": "#004b8e",
+    "logo": "/logos/diii-402.png"
+  },
+  {
+    "id": "diii-2749",
+    "name": "WPI",
+    "mascot": "Engineers",
+    "division": "DIII",
+    "conference": "NEWMAC",
+    "color": "#000000",
+    "logo": "/logos/diii-2749.png"
+  }
+]
