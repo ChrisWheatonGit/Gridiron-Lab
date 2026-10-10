@@ -1,0 +1,4 @@
+/* Schedule Builder: prevent two-digit week values from clipping. */
+.st-week { width: 70px; flex: 0 0 70px; min-width: 70px; text-align: center; }
+.st-week input { display: block; box-sizing: border-box; width: 100%; min-width: 0; padding: 0 3px; border: 0; outline-offset: 2px; background: transparent; color: #fff; font-size: 24px; font-weight: 900; text-align: center; font-variant-numeric: tabular-nums; }
+.st-week input:focus-visible { outline: 2px solid #d6aa5d; border-radius: 3px; }

@@ -5,6 +5,7 @@ import catalog from '@/data/teams.json';
 import type {Team} from '@/lib/bracket';
 import Link from 'next/link';
 import '@/app/studio-tools.css';
+import './week-input-fix.css';
 type Game={id:string;opponentId:string;week:number;date:string;location:'Home'|'Away'|'Neutral';venue:string;ourScore:string;theirScore:string;note:string};
 type Saved={teamId:string;season:number;title:string;games:Game[]};
 const teams=(catalog as Team[]).slice().sort((a,b)=>a.name.localeCompare(b.name));
@@ -18,10 +19,10 @@ function saveFile(filename:string,content:string,kind='application/json'){const 
 function EditableWeek({value,onChange}:{value:number;onChange:(value:number)=>void}){
   const [draft,setDraft]=useState(String(value));
   useEffect(()=>setDraft(String(value)),[value]);
-  return <input aria-label="Week" type="number" min="1" max="40" value={draft}
-    onChange={e=>{const next=e.target.value;setDraft(next);if(next.trim()!==''&&Number.isInteger(Number(next))&&Number(next)>=1&&Number(next)<=40)onChange(Number(next));}}
-    onBlur={()=>{const corrected=Math.min(40,Math.max(1,Number(draft)||value||1));setDraft(String(corrected));if(corrected!==value)onChange(corrected);}}
-  />;
+  const commit=()=>{const n=Number(draft);const next=draft.trim()!==''&&Number.isInteger(n)?Math.max(1,Math.min(40,n)):value;setDraft(String(next));if(next!==value)onChange(next)};
+  return <input aria-label="Week" type="text" inputMode="numeric" pattern="[0-9]*" maxLength={2} value={draft}
+    onChange={e=>{const next=e.target.value.replace(/\D/g,'').slice(0,2);setDraft(next)}} onBlur={commit}
+    onKeyDown={e=>{if(e.key==='Enter')e.currentTarget.blur();if(e.key==='Escape'){setDraft(String(value));e.currentTarget.blur()}}}/>;
 }
 export default function Schedule(){const [data,setData]=useState<Saved>(initial);const [loaded,setLoaded]=useState(false);const [filter,setFilter]=useState('');const [division,setDivision]=useState('ALL');const [conference,setConference]=useState('ALL');const [opponent,setOpponent]=useState('');const [week,setWeek]=useState('1');const [message,setMessage]=useState('');const [drag,setDrag]=useState<string|null>(null);
 useEffect(()=>{try{const d=JSON.parse(localStorage.getItem('gridiron-lab-schedules-v1')||'{}');const last=localStorage.getItem('gridiron-lab-schedule-last');if(last&&d[last])setData(d[last])}catch{}setLoaded(true)},[]);

@@ -1,0 +1,44 @@
+Built-in bowl logo update
+
+What changed:
+- Removed the bowl logo upload requirement.
+- Added built-in real bowl logos for 25 bowl games.
+- Updated the bowl page so these logos appear automatically when the bowl name matches.
+
+Built-in real logos included:
+Rose Bowl
+Sugar Bowl
+Orange Bowl
+Cotton Bowl Classic
+Fiesta Bowl
+Peach Bowl
+Citrus Bowl
+Alamo Bowl
+Gator Bowl
+Pop-Tarts Bowl
+Sun Bowl
+Music City Bowl
+Liberty Bowl
+Holiday Bowl
+Pinstripe Bowl
+Military Bowl
+Fenway Bowl
+Independence Bowl
+Armed Forces Bowl
+Las Vegas Bowl
+Arizona Bowl
+New Orleans Bowl
+Boca Raton Bowl
+Gasparilla Bowl
+Celebration Bowl
+
+Still fallback / not yet sourced in this patch:
+ReliaQuest Bowl
+Duke’s Mayo Bowl
+Birmingham Bowl
+Texas Bowl
+Hawaii Bowl
+
+Main files changed:
+- src/app/bowls/page.tsx
+- public/bowl-logos/*
