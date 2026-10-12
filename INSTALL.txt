@@ -1,9 +1,28 @@
-Gridiron Lab - numeric week input correction
+GRIDIRON LAB — MANUAL STATISTICS STUDIO + SAVE PROGRESS
 
-1. Back up your existing project folder.
-2. Copy src/app/schedule/page.tsx from this ZIP into C:\Github Projects\cfp-studio\src\app\schedule\page.tsx (replace only this file).
-3. Start the app with npm run dev (existing port 3001).
+Based on Gridiron-Lab-Latest.zip uploaded in this conversation.
 
-Changes: both the Add Game week field and the game-card week fields can temporarily be blank while typing. The Add Game week is validated when leaving the field or submitting. Existing saved schedules, team catalogs, logos, bracket pages, and top-25 pages are not touched.
+IMPORTANT: Back up your project before installing.
 
-FinanceHub is a separate app. Its source files are needed for a safe tailored patch. Do not copy this file into FinanceHub.
+1. Stop npm dev server with Ctrl+C.
+2. Extract this ZIP.
+3. Copy its src folder into C:\Github Projects\Gridiron-Lab\, selecting Merge/Replace for the specific files included. DO NOT delete your existing src or public folders.
+4. In PowerShell: cd "C:\Github Projects\Gridiron-Lab"
+5. Run: npm.cmd run dev
+6. Open http://localhost:3001/stats for statistics, and http://localhost:3001/library for save slots.
+
+What changes:
+- Adds a shared Save Progress / Open Saved toolbar on every editor (brackets, schedules, top 25, conferences, bowls, statistics)
+- Adds statistics nav link
+- Adds manual team & player stats, roster, category tables, season/team selection, local autosave
+- Saved Seasons now snapshots and restores the statistics alongside the other editors
+- Does NOT replace logos or modify team catalog, existing editor pages, or browser data
+
+Important:
+- Save Progress captures the currently autosaved editor data into an active slot, or creates a slot automatically.
+- Saved Seasons lets you rename slots, start new slots, and resume previous ones.
+- Browser localStorage persists only for the same browser/profile and origin.
+- Use Saved Seasons JSON export to back up work, especially before clearing browser data.
+- If npm says scripts are disabled, run npm.cmd instead of npm.
+
+Validation: TypeScript syntax checked for the changed files. Full Next.js build could not be run (offline dependency not cached).

@@ -1,7 +1,7 @@
 'use client';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { GitBranch, CalendarDays, ListOrdered, Network, Archive, Goal } from 'lucide-react';
+import { GitBranch, CalendarDays, ListOrdered, Network, Archive, Goal, ChartNoAxesCombined } from 'lucide-react';
 import styles from './StudioNav.module.css';
 const links = [
   { href: '/', title: 'Playoff Bracket', Icon: GitBranch },
@@ -9,6 +9,7 @@ const links = [
   { href: '/top-25', title: 'Top 25', Icon: ListOrdered },
   { href: '/conferences', title: 'Conference Studio', Icon: Network },
   { href: '/bowls', title: 'Bowl Games', Icon: Goal },
+  { href: '/stats', title: 'Statistics', Icon: ChartNoAxesCombined },
   { href: '/library', title: 'Saved Seasons', Icon: Archive },
 ];
 export default function StudioNav() {
