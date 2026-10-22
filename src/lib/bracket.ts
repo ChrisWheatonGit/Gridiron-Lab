@@ -1,7 +1,7 @@
 export type Division='FBS'|'FCS'|'DII'|'DIII';
 export type Team={id:string;name:string;mascot:string;division:Division;conference:string;color:string;logo?:string};
 export type BracketState={title:string;size:number;seedIds:(string|null)[];winners:Record<string,string>;scores:Record<string,[string,string]>;};
-export const FORMATS=[4,8,12,16,24,32] as const;
+export const FORMATS = [4, 8, 12, 24] as const;
 export const nextPow2=(v:number)=>2**Math.ceil(Math.log2(v));
 // Seeds are arranged so top seed meets bottom seed within each half of the tree.
 export function seedPositions(size:number){let seeds=[1];for(let count=2;count<=nextPow2(size);count*=2){seeds=seeds.flatMap(n=>[n,count+1-n]);}return seeds;}
