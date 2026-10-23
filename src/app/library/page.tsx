@@ -6,12 +6,14 @@ import {Archive,Download,FolderOpen,Save,Trash2,CalendarDays,Trophy,ListOrdered,
 import teams from '@/data/teams.json';
 import styles from './saved-seasons.module.css';
 
-type Snapshot={id:string;name:string;year:string;createdAt:string;teamSchedules:Record<string,unknown>;bracket:unknown;rankings:unknown;conferences:unknown;bowls?:unknown;statistics?:unknown};
+type Snapshot={id:string;name:string;year:string;createdAt:string;teamSchedules:Record<string,unknown>;bracket:unknown;fcsBracket?:unknown;rankings:unknown;fcsRankings?:unknown;conferences:unknown;bowls?:unknown;statistics?:unknown};
 const ARCHIVE='gridiron-manual-archives-v1';
 const ACTIVE='gridiron-active-save-slot-v1';
 const SCHEDULES='gridiron-lab-schedules-v1';
 const BRACKET='gridiron-lab-v1';
+const FCS_BRACKET='gridiron-lab-fcs-v1';
 const RANKINGS='gridiron-lab-top25-v1';
+const FCS_RANKINGS='gridiron-lab-fcs-top25-v1';
 const CONFERENCES='gridiron-conference-studio-v1';
 const BOWLS='gridiron-manual-bowls-v1';
 const STATS='gridiron-lab-statistics-v1';
@@ -25,7 +27,7 @@ export default function SavedSeasons(){
  const [activeId,setActiveId]=useState<string|null>(null);const [ready,setReady]=useState(false);const [archives,setArchives]=useState<Snapshot[]>([]);const [name,setName]=useState('My Football Season');const [year,setYear]=useState('2026');const [notice,setNotice]=useState('');const [openId,setOpenId]=useState<string|null>(null);
  useEffect(()=>{const all=safeParse(localStorage.getItem(ARCHIVE));setArchives(Array.isArray(all)?all.filter(validSnap):[]);const a=localStorage.getItem(ACTIVE);if(a){setActiveId(a);const existing=Array.isArray(all)?all.find((x:Snapshot)=>x.id===a):null;if(existing){setName(existing.name);setYear(existing.year)}}setReady(true)},[]);
  useEffect(()=>{if(ready)localStorage.setItem(ARCHIVE,JSON.stringify(archives))},[archives,ready]);
- function capture():Snapshot{return {id:makeId(),name:name.trim()||`${year} Season`,year:year.trim()||'2026',createdAt:new Date().toISOString(),teamSchedules:safeParse(localStorage.getItem(SCHEDULES))||{},bracket:safeParse(localStorage.getItem(BRACKET)),rankings:safeParse(localStorage.getItem(RANKINGS)),conferences:safeParse(localStorage.getItem(CONFERENCES)),bowls:safeParse(localStorage.getItem(BOWLS)),statistics:safeParse(localStorage.getItem(STATS))};}
+ function capture():Snapshot{return {id:makeId(),name:name.trim()||`${year} Season`,year:year.trim()||'2026',createdAt:new Date().toISOString(),teamSchedules:safeParse(localStorage.getItem(SCHEDULES))||{},bracket:safeParse(localStorage.getItem(BRACKET)),fcsBracket:safeParse(localStorage.getItem(FCS_BRACKET)),rankings:safeParse(localStorage.getItem(RANKINGS)),fcsRankings:safeParse(localStorage.getItem(FCS_RANKINGS)),conferences:safeParse(localStorage.getItem(CONFERENCES)),bowls:safeParse(localStorage.getItem(BOWLS)),statistics:safeParse(localStorage.getItem(STATS))};}
  function save(){
   const snap=capture();
   // Save repeatedly to the current slot, instead of creating duplicates.
@@ -49,7 +51,9 @@ export default function SavedSeasons(){
 
   localStorage.setItem(SCHEDULES,JSON.stringify(snapshot.teamSchedules));
   if(snapshot.bracket!==null&&snapshot.bracket!==undefined)localStorage.setItem(BRACKET,JSON.stringify(snapshot.bracket));else localStorage.removeItem(BRACKET);
+  if(snapshot.fcsBracket!==undefined){if(snapshot.fcsBracket!==null)localStorage.setItem(FCS_BRACKET,JSON.stringify(snapshot.fcsBracket));else localStorage.removeItem(FCS_BRACKET);}
   if(snapshot.rankings!==null&&snapshot.rankings!==undefined)localStorage.setItem(RANKINGS,JSON.stringify(snapshot.rankings));else localStorage.removeItem(RANKINGS);
+  if(snapshot.fcsRankings!==undefined){if(snapshot.fcsRankings!==null)localStorage.setItem(FCS_RANKINGS,JSON.stringify(snapshot.fcsRankings));else localStorage.removeItem(FCS_RANKINGS);}
   if(snapshot.conferences!==null&&snapshot.conferences!==undefined)localStorage.setItem(CONFERENCES,JSON.stringify(snapshot.conferences));else localStorage.removeItem(CONFERENCES);
   if(snapshot.bowls!==undefined){if(snapshot.bowls!==null)localStorage.setItem(BOWLS,JSON.stringify(snapshot.bowls));else localStorage.removeItem(BOWLS);}
   if(snapshot.statistics!==undefined){if(snapshot.statistics!==null)localStorage.setItem(STATS,JSON.stringify(snapshot.statistics));else localStorage.removeItem(STATS);}
@@ -87,7 +91,7 @@ export default function SavedSeasons(){
       return <article key={s.id} className={styles.archive}>
        <button className={styles.archiveTitle} onClick={()=>setOpenId(opened?null:s.id)}><span><strong>{s.name}{activeId===s.id?' · ACTIVE':''}</strong><small>{s.year} · {new Date(s.createdAt).toLocaleDateString()} · {schedules.length} schedules · {games} games</small></span><span>{opened?'−':'+'}</span></button>
        {opened&&<div className={styles.detail}>
-        <div className={styles.tags}><span><CalendarDays size={14}/> {schedules.length} schedules</span><span><Trophy size={14}/> {s.bracket?'Bracket saved':'No bracket'}</span><span><ListOrdered size={14}/> {s.rankings?'Top 25 saved':'No rankings'}</span><span><Shield size={14}/> {s.conferences?'Conferences saved':'No conferences'}</span><span>{s.statistics?'Statistics saved':'No statistics'}</span><span><Trophy size={14}/> {Array.isArray((s.bowls as {bowls?:unknown[]}|null)?.bowls)?(s.bowls as {bowls:unknown[]}).bowls.length:0} bowls</span></div>
+        <div className={styles.tags}><span><CalendarDays size={14}/> {schedules.length} schedules</span><span><Trophy size={14}/> {s.bracket?'Bracket saved':'No bracket'}</span><span><ListOrdered size={14}/> {s.rankings?'FBS Top 25 saved':'No FBS rankings'}</span><span><ListOrdered size={14}/> {s.fcsRankings?'FCS Top 25 saved':'No FCS rankings'}</span><span><Shield size={14}/> {s.conferences?'Conferences saved':'No conferences'}</span><span>{s.statistics?'Statistics saved':'No statistics'}</span><span><Trophy size={14}/> {Array.isArray((s.bowls as {bowls?:unknown[]}|null)?.bowls)?(s.bowls as {bowls:unknown[]}).bowls.length:0} bowls</span></div>
         {schedules.length>0&&<div className={styles.scheduleList}>{schedules.slice(0,12).map((d:any,i)=><span key={i}>{teamNames.get(String(d.teamId))||'Team'} · {d.season||s.year} · {d.games?.length||0} games</span>)}{schedules.length>12&&<span>+{schedules.length-12} more schedules</span>}</div>}
         <div className={styles.actions}><button onClick={()=>restore(s)}><FolderOpen size={15}/> {activeId===s.id?'Reload Slot':'Resume'}</button><button onClick={()=>download(`gridiron-${s.year}-${s.id}.json`,JSON.stringify(s,null,2))}><Download size={15}/> Export</button><button className={styles.danger} onClick={()=>{if(confirm(`Delete saved slot “${s.name}”?`)){setArchives(a=>a.filter(x=>x.id!==s.id));if(activeId===s.id){localStorage.removeItem(ACTIVE);setActiveId(null)}}}}><Trash2 size={15}/> Delete</button></div>
        </div>}

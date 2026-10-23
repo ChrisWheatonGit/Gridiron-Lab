@@ -1,22 +1,9 @@
-GRIDIRON LAB — PLAYOFF / BOWL INTEGRATION
+Gridiron Lab Schedule -> Statistics Sync
 
-BACK UP YOUR PROJECT AND EXPORT SAVED SEASONS FIRST.
-
-Copy the included src folder over your project's src folder, MERGING rather than deleting the folder.
-
-Bracket page:
-- Mark exactly four seeded conference champions from different conferences.
-- On 12-team brackets, click Apply 4 champion byes. The four selected champions are moved to seeds 1–4, and bracket results reset after confirmation.
-- Winners remain fully manual. The first four teams receive byes under the existing bracket engine.
-- Format buttons show 4, 8, 12, and 24; existing 16/32 saves remain readable.
-
-Bowl Games page:
-- Matchup source: Manual or Link playoff bracket.
-- Linked bowl games show their live bracket participants and scores, including TBD for undecided rounds.
-- Enter scores and select winners on the bracket page. Bowl game cards are read-only while linked.
-- Existing manually entered bowl games are untouched.
-- If a bracket format changes, reassignment may be necessary; select a new playoff matchup.
-- Duplicate bowl-matchup links show a warning.
-
-Data is still stored in your browser's localStorage, not synchronized between computers.
-This is a patch based on your last supplied Gridiron-Lab-Latest ZIP and your most recent Bowl Filters inside Cards patch.
+Back up src/app/schedule/page.tsx and src/app/stats before installing.
+Copy the src folder into your project root, merge and replace these three files.
+Run npm.cmd run dev.
+Schedule scores and dates are the source for game results, records and points in Statistics Studio.
+Statistics player entries and advanced manual team totals remain editable and preserved.
+Existing browser localStorage keys stay unchanged.
+Use View [team] season statistics on Schedule Builder or choose the team and year in Stats.

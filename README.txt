@@ -1,7 +1,1 @@
-Gridiron Lab Bowl Delete Fix
-
-Replace src/app/bowls/page.tsx in your project.
-This patch builds on the Playoff & Bowl Integration version.
-Delete is immediate, and Undo Delete restores the last removed bowl.
-Existing localStorage keys, bracket links, per-card filters, and logos are preserved.
-Restart the Next.js dev server afterward.
+Top 25 patch: removes #1 trophy, limits school choices to FBS/FCS, retains blank record fields and manual ranking logic. Replace src/app/top-25/page.tsx. Back up original first.
