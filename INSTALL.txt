@@ -1,28 +1,22 @@
-GRIDIRON LAB — MANUAL STATISTICS STUDIO + SAVE PROGRESS
+GRIDIRON LAB — PLAYOFF / BOWL INTEGRATION
 
-Based on Gridiron-Lab-Latest.zip uploaded in this conversation.
+BACK UP YOUR PROJECT AND EXPORT SAVED SEASONS FIRST.
 
-IMPORTANT: Back up your project before installing.
+Copy the included src folder over your project's src folder, MERGING rather than deleting the folder.
 
-1. Stop npm dev server with Ctrl+C.
-2. Extract this ZIP.
-3. Copy its src folder into C:\Github Projects\Gridiron-Lab\, selecting Merge/Replace for the specific files included. DO NOT delete your existing src or public folders.
-4. In PowerShell: cd "C:\Github Projects\Gridiron-Lab"
-5. Run: npm.cmd run dev
-6. Open http://localhost:3001/stats for statistics, and http://localhost:3001/library for save slots.
+Bracket page:
+- Mark exactly four seeded conference champions from different conferences.
+- On 12-team brackets, click Apply 4 champion byes. The four selected champions are moved to seeds 1–4, and bracket results reset after confirmation.
+- Winners remain fully manual. The first four teams receive byes under the existing bracket engine.
+- Format buttons show 4, 8, 12, and 24; existing 16/32 saves remain readable.
 
-What changes:
-- Adds a shared Save Progress / Open Saved toolbar on every editor (brackets, schedules, top 25, conferences, bowls, statistics)
-- Adds statistics nav link
-- Adds manual team & player stats, roster, category tables, season/team selection, local autosave
-- Saved Seasons now snapshots and restores the statistics alongside the other editors
-- Does NOT replace logos or modify team catalog, existing editor pages, or browser data
+Bowl Games page:
+- Matchup source: Manual or Link playoff bracket.
+- Linked bowl games show their live bracket participants and scores, including TBD for undecided rounds.
+- Enter scores and select winners on the bracket page. Bowl game cards are read-only while linked.
+- Existing manually entered bowl games are untouched.
+- If a bracket format changes, reassignment may be necessary; select a new playoff matchup.
+- Duplicate bowl-matchup links show a warning.
 
-Important:
-- Save Progress captures the currently autosaved editor data into an active slot, or creates a slot automatically.
-- Saved Seasons lets you rename slots, start new slots, and resume previous ones.
-- Browser localStorage persists only for the same browser/profile and origin.
-- Use Saved Seasons JSON export to back up work, especially before clearing browser data.
-- If npm says scripts are disabled, run npm.cmd instead of npm.
-
-Validation: TypeScript syntax checked for the changed files. Full Next.js build could not be run (offline dependency not cached).
+Data is still stored in your browser's localStorage, not synchronized between computers.
+This is a patch based on your last supplied Gridiron-Lab-Latest ZIP and your most recent Bowl Filters inside Cards patch.

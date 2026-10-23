@@ -1,4 +1,7 @@
-Gridiron Lab Statistics Studio CSS Modules hotfix
+Gridiron Lab Bowl Delete Fix
 
-Replace src/app/stats/stats.module.css with this file. No other files change.
-Fixes CSS Modules pure selector build errors for table, th, td, and their descendants.
+Replace src/app/bowls/page.tsx in your project.
+This patch builds on the Playoff & Bowl Integration version.
+Delete is immediate, and Undo Delete restores the last removed bowl.
+Existing localStorage keys, bracket links, per-card filters, and logos are preserved.
+Restart the Next.js dev server afterward.

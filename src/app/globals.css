@@ -38,3 +38,12 @@
 .seed-chip .seed-clear:hover{background:#743039;color:#fff;border-color:#d66a70}
 .seed-chip .seed-clear:focus-visible{outline:2px solid #f4ca7c;outline-offset:2px}
 .seed-chip:has(.seed-clear){min-width:164px;max-width:205px}
+
+/* Optional champion-based byes for manual 12-team brackets */
+.champion-bye-panel{border:1px solid #55482c;background:#172335;border-radius:12px;padding:17px 20px;margin:15px 0;display:flex;gap:12px;flex-wrap:wrap;align-items:center;justify-content:space-between}
+.champion-bye-panel strong{color:#e7b866;font-size:12px;letter-spacing:.07em}
+.champion-bye-panel p{color:#adbacb;font-size:12px;margin:6px 0 0;max-width:640px}
+.champion-bye-controls{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.champion-bye-controls select{background:#101b2b;color:#f1f4f8;border:1px solid #48536a;border-radius:8px;min-width:210px;max-width:300px;padding:10px;font-size:12px}
+.champion-bye-list{width:100%;display:flex;gap:6px;flex-wrap:wrap}
+.champion-bye-list button{background:#24334a;color:#f0c77e;border:1px solid #665333;border-radius:20px;padding:7px 11px;cursor:pointer;font-size:12px}
